@@ -38,11 +38,11 @@
 
     	
 
-            <div style="background-image: url('http://honestinstall.com/images/Honest-Feature-PlayBox-Prim.jpg'); background-size: cover;">
+            <div style="background-image: url('https://honestinstall.com/images/Honest-Feature-PlayBox-Prim.jpg'); background-size: cover;">
 
                 <div data-pos="['0%', '0%']" data-duration="900" data-delay="400" data-effect="fadein">
 
-                   <a href="http://thenos.us" target="_blank"> 
+                   <a href="https://thenos.us" target="_blank"> 
 
                       <img alt="The wall-box for your Sonos® Play:1™. A beautiful aesthetic to match beautiful sound." data-lazy-src="images/Honest-Feature-PlayBox-Seco.jpg"/>
 
@@ -54,11 +54,11 @@
 
            
 
-            <div style="background-image: url('http://honestinstall.com/images/banner/3.jpg'); background-size: cover;">
+            <div style="background-image: url('https://honestinstall.com/images/banner/3.jpg'); background-size: cover;">
 
                 <div data-pos="['0%', '0%']" data-duration="900" data-delay="400" data-effect="fadein">
 
-                    <a href="http://honestinstall.com/sonos.php">
+                    <a href="https://honestinstall.com/sonos.php">
 
                         <img alt="The best streaming options throughout your home or business on your smart device." data-lazy-src="images/banner/4.jpg"/>
 
@@ -68,7 +68,7 @@
 
             </div> 
 
-            <div style="background-image: url('http://honestinstall.com/images/banner/5.jpg'); background-size: cover;">
+            <div style="background-image: url('https://honestinstall.com/images/banner/5.jpg'); background-size: cover;">
 
                 <div data-pos="['0%', '0%']" data-duration="900" data-delay="400" data-effect="fadein">
 
@@ -78,7 +78,7 @@
 
             </div> 
 
-            <div style="background-image: url('http://honestinstall.com/images/banner/7.jpg'); background-size: cover;">
+            <div style="background-image: url('https://honestinstall.com/images/banner/7.jpg'); background-size: cover;">
 
                 <div data-pos="['0%', '0%']" data-duration="900" data-delay="400" data-effect="fadein">
 
@@ -88,11 +88,11 @@
 
             </div> 
 
-            <div style="background-image: url('http://honestinstall.com/images/banner/9.jpg'); background-size: cover;">
+            <div style="background-image: url('https://honestinstall.com/images/banner/9.jpg'); background-size: cover;">
 
                 <div data-pos="['0%', '0%']" data-duration="900" data-delay="400" data-effect="fadein">
 
-                    <a href="http://honestinstall.com/customer-profile-tyron-smith.php">
+                    <a href="https://honestinstall.com/customer-profile-tyron-smith.php">
 
                         <img alt="These aren't your father's old-style theater rooms..." data-lazy-src="images/banner/10.jpg"/>
 
@@ -102,11 +102,11 @@
 
             </div> 
 
-            <div style="background-image: url('http://honestinstall.com/images/banner/11.jpg'); background-size: cover;">
+            <div style="background-image: url('https://honestinstall.com/images/banner/11.jpg'); background-size: cover;">
 
                 <div data-pos="['0%', '0%']" data-duration="900" data-delay="400" data-effect="fadein">
 
-                    <a  onclick="window.open('http://www.customerlobby.com/reviews/403/honest-install/' ,'ReviewPage', 'statusbar=no,menubar=no,toolbar=no,scrollbars=yes,resizable=yes,width=540, height=575,left=570,top=200,screenX=570,screenY=200'); return false;" href="http://www.customerlobby.com/reviews/403/honest-install/" target=_blank>
+                    <a  onclick="window.open('https://www.customerlobby.com/reviews/403/honest-install/' ,'ReviewPage', 'statusbar=no,menubar=no,toolbar=no,scrollbars=yes,resizable=yes,width=540, height=575,left=570,top=200,screenX=570,screenY=200'); return false;" href="https://www.customerlobby.com/reviews/403/honest-install/" target=_blank>
 
                         <img alt="We provide solutions: Products + Installation. Read our reviews." data-lazy-src="images/banner/12.jpg"/>
 

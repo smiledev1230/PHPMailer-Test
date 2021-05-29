@@ -36,7 +36,7 @@ of products and solutions in addition to award-winning
 
 service for residents and businesses in Dallas/Ft. Worth
 
-and surrounding. <a href="http://honestinstall.com/contact.php">Experience our Service</a>
+and surrounding. <a href="https://honestinstall.com/contact.php">Experience our Service</a>
 
 				</div>
 
@@ -56,7 +56,7 @@ and surrounding. <a href="http://honestinstall.com/contact.php">Experience our S
 
 							<li class="keywords"><a class=keywordLink href="/pricing-and-services.php">Pricing &amp; Rates</a></li>
 
-							<li class="keywords"><a class=keywordLink href="http://www.honestinstall.com/products-and-installation.php">Products</a></li>
+							<li class="keywords"><a class=keywordLink href="https://www.honestinstall.com/products-and-installation.php">Products</a></li>
 
 							<li class="keywords"><a class=keywordLink href="process.php">Our Process</a></li>
 
@@ -88,17 +88,17 @@ and surrounding. <a href="http://honestinstall.com/contact.php">Experience our S
 
 							<li class="keywords"><a class=keywordLink href="install.php#Photos">Photos</a></li>	
 
-							<!--<li class="keywords"><a class=keywordLink title="Spotlight Page"  href="http://www.honestinstall.com/spotlight.php">Spotlight Page</a></li>-->
+							<!--<li class="keywords"><a class=keywordLink title="Spotlight Page"  href="https://www.honestinstall.com/spotlight.php">Spotlight Page</a></li>-->
 
-							<li class="keywords"><a class=keywordLink title="Schedule"  href="http://honestinstall.com/contact.php">Request Quote Form</a></li>
+							<li class="keywords"><a class=keywordLink title="Schedule"  href="https://honestinstall.com/contact.php">Request Quote Form</a></li>
 
 							<li class="keywords"><a class=keywordLink href="about.php">About Us</a></li>
 
-							<li class="keywords"><a class=keywordLink title="Contact Us"  href="http://honestinstall.com/contact.php">Contact Us </a></li>
+							<li class="keywords"><a class=keywordLink title="Contact Us"  href="https://honestinstall.com/contact.php">Contact Us </a></li>
 
-							<li class="keywords"><a class=keywordLink title="Contact Us"  href="http://honestinstall.com/blog">Blog</a></li>
+							<li class="keywords"><a class=keywordLink title="Contact Us"  href="https://honestinstall.com/blog">Blog</a></li>
 
-							<li class="keywords"><a class=keywordLink title="Contact Us"  href="http://honestinstall.com/careers.php">Careers</a></li>
+							<li class="keywords"><a class=keywordLink title="Contact Us"  href="https://honestinstall.com/careers.php">Careers</a></li>
 
 						</ul>
 
@@ -120,7 +120,7 @@ and surrounding. <a href="http://honestinstall.com/contact.php">Experience our S
 
 					<br />*Review count established from all online sources.  &#10013;Free on-site consultations apply to locations within standard service area.<br>
 
-Consultation fee may apply for locations in our extended service area however fee may be rebated towards subsequent work.<br /><br /><a href="http://www.cedia.net/" target="_blank"><img src="images/Boiler-plate-CEDIA-Logo2.png" alt="Cedia"  /></a>
+Consultation fee may apply for locations in our extended service area however fee may be rebated towards subsequent work.<br /><br /><a href="https://www.cedia.net/" target="_blank"><img src="images/Boiler-plate-CEDIA-Logo2.png" alt="Cedia"  /></a>
 
 				</div>
 
