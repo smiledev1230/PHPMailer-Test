@@ -1,0 +1,4 @@
+<TITLE>Honest Install | Home Entertainment - Smart Home Automation - Commercial Audio/Video | info@honestInstall.com | 972-470-3528
+</TITLE>
+<META NAME="Description" CONTENT="Provider of Home Entertainment Products & Installation and Commercial Audio/Video Installation for residents and businesses of Dallas/Ft. Worth">
+<meta name="keywords" content="TV Install, TV Installation, TV Mounting, TV Wall Mounting, Home Entertainment Installation , Home Theater Install, Home Theatre Installation, Projector & Screen Installation, Projector Install, Low Voltage Wiring, Prewiring, Pre-Wiring, Low Volt, TV Wiring, In Wall Wire Concealment, Speaker Installation, Universal Remote Control Programming, Surround Sound Installation & Setup, Electronics Recycling, Universal Remotes & Programming, Electronics Hookup Configuration, Media Room, Whole House Audio, Cable Installation, Cable Drop, Cabling">
