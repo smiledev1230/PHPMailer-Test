@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Image cross fade slide show</title>
+<script src="jquery-1.4.2.min.js"></script>
+<style type="text/css">
+body {font:10pt arial; }
+.fl{ float:left;}
+
+.slidepart{ width:729px; height:479px; overflow:hidden; position:relative;}
+.slidepart img {position:absolute; }
+.sl_paginationpart{ background:url(cssimages/slide_paginationbg.png) no-repeat left; width:100px; height:15px; display:block; padding:6px;margin-left: auto;margin-right: auto;}
+
+ul.slpagination{ margin:0px; padding:0px; list-style:none; font-family:arial; }
+ul.slpagination li{ margin:0px; padding:0px; list-style:none; float:left; }
+ul.slpagination li a.prev{background:url(cssimages/sl_prev.png) no-repeat; width:14px; height:15px; display:block; margin-top: 2px;}
+ul.slpagination li a.next{background:url(cssimages/sl_next.png) no-repeat; width:14px; height:15px; display:block; margin-top: 2px; }
+ul.slpagination li a.number{background:url(cssimages/sl_nobg.png) no-repeat; width:18px; height:18px ; display:block; text-align:center; margin:0px 3px; font-size:12px; font-weight:bold; color:#006aa6; text-decoration:none; }
+ul.slpagination li a.select{background:url(cssimages/select_sl.png) no-repeat;color:#fff; }
+
+
+
+
+
+</style>
+
+</head>
+<body>
+<div class="contents" style="width:729px;  margin:0px auto; overflow:hidden;">
+<div id="slidy" class="slidepart fl">
+<a href="http://www.honestinstall.com/pricing.php"><img src="images/topbanner1.jpg"></a><a href="http://www.honestinstall.com/pricing.php"><img src="images/topbanner2.jpg"></a><a href="http://www.honestinstall.com/pricing.php"><img src="images/topbanner3.jpg"></a>
+
+</div>
+
+</div>
+
+<div class="sl_paginationpart">
+	<ul id="slidya" class="slpagination">
+		<li><a href="javascript: prevnext(0);" class="prev"></a></li>
+		<li><a href="javascript: thisisit(0)" class="number select">1</a></li>
+		<li><a href="javascript: thisisit(1)" class="number ">2</a></li>
+		<li><a href="javascript: thisisit(2)" class="number ">3</a></li>
+		<li><a href="javascript: prevnext(1);" class="next"></a></li>
+	</ul>            	
+	</div>
+<script type="text/javascript">
+var slo=null;
+var sola = Array();
+var prev = 0;
+var cur = 1;
+var timi=null
+
+$(document).ready(function() {
+	sol = document.getElementById('slidy').getElementsByTagName('img')
+	var sho = document.getElementById('slidya').getElementsByTagName('a');
+	for(var i=1;i<sho.length-1;i++)sola.push(sho[i])		
+	for(var i=1;i<sol.length;i++)sol[i].style.display = 'none';
+	timi = window.setInterval('doslide()',6000);
+})
+
+function doslide()
+{
+	$(sol[prev]).fadeOut(500);
+	$(sol[cur]).fadeIn(500);
+	sola[prev].className = 'number'
+	sola[cur].className = 'number select'
+	
+	prev = cur++;
+	if(cur>sol.length-1)
+	{
+		cur=0;
+		prev= sol.length-1;
+	}
+}
+
+function prevnext(mode)
+{
+	window.clearInterval(timi);timi=null;
+	
+	if(mode)
+	{
+		if(cur>sol.length-1)
+		{
+			cur=0;
+			prev= sol.length-1;
+		}
+		doslide();		
+	}
+	else
+	{
+		cur--;
+		prev--;
+		
+		if(prev<0)
+		{
+			cur=0;
+			prev= sol.length-1;
+		}
+		if(cur<0)
+		{
+			cur=sol.length-1;
+			prev=cur-1 ;		
+		}
+
+		$(sol[cur]).fadeOut(500);
+		$(sol[prev]).fadeIn(500);
+		sola[cur].className = 'number'
+		sola[prev].className = 'number select'	
+	}
+	timi = window.setInterval('doslide()',2000)
+}
+
+function thisisit(aiyo)
+{
+	cur = aiyo
+	window.clearInterval(timi);timi=null;
+	
+	$(sol[cur]).fadeIn(500);
+	$(sol[prev]).fadeOut(500);
+	sola[cur].className = 'number select'
+	sola[prev].className = 'number'	
+	
+	prev=cur
+	++cur;
+	if(prev<0)prev = sol.length-1;
+	timi = window.setInterval('doslide()',2000)		
+}
+</script>
+<br />
+</div>
+
+</body>
+</html>

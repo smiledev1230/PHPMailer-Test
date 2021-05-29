@@ -1,0 +1,497 @@
+@import url(http://fonts.googleapis.com/css?family=Archivo+Narrow);
+
+body {
+
+	font-family: Arial, Helvetica, sans-serif;
+
+	font-size: 10px;
+
+	color: #808080;
+
+	margin-top: 0px;
+
+	overflow-x:hidden;
+
+	background-attachment: fixed;
+
+	background-color: #FFF;
+
+	background-image: url(images/crawlerbg.jpg);
+
+	background-repeat: no-repeat;
+
+	background-position: center top;
+
+}
+
+.techbg{
+
+	background-attachment: fixed;
+
+	background-color: #FFF;
+
+	background-image: url(images/hibg.jpg);
+
+	background-repeat: no-repeat;
+
+	background-position: center top;
+
+}
+
+img {border:0;}
+
+
+
+.headerBG {
+
+	background-image: url(images/Honest-Header.jpg);
+
+}
+
+
+
+.mainBG {
+
+	background-image: url(images/bg-tv-repeat.jpg);
+
+	background-repeat: repeat-y;
+
+	padding-left: 50px;
+
+	padding-right: 47px;
+border-left:1px solid #808080;
+	border-right:1px solid #808080;
+	padding-top: 0px;
+
+
+}
+
+
+.generalbordertb{
+	border-left:1px solid #808080;
+	border-right:1px solid #808080;
+	width:848px;
+}
+
+.mainBG2 {
+
+	background-image: url(images/Honest-TV-Body3 - Copy.jpg);
+
+	background-repeat: no-repeat;
+
+	padding-left: 50px;
+
+	padding-right: 50px;
+
+	padding-top: 45px;
+
+}
+
+.secondaryBG {
+
+	background-image: url(images/Honest-Repeating-TV-Section.jpg);
+
+	padding-left: 50px;
+
+	padding-right: 50px;
+
+	padding-top: 0px;
+
+}
+
+.rotateText {
+
+	padding-left: 15px;
+
+	padding-right: 15px;
+
+}
+
+
+
+A.link:hover {
+
+	color: #FFCC00;
+
+}
+
+
+
+.presstext {font-size: 12px;
+
+	color: #808080;
+
+}
+
+a.hover-silver:link {color: #ffcc00;}
+
+a.hover-silver:hover {color: #dadada;}	
+
+a.hover-silver:visited {color: #ffcc00;}	
+
+
+
+.contactText {font-size: 12px; padding-left: 8px;}
+
+.contactTextBold {font-size: 12px; font-weight: bold; padding-left: 8px; padding-top: 5px;}
+
+.contactHeaderText {font-size: 14px; font-weight: bold; padding-left: 8px;}
+
+.contactFigures {padding-top: 5px;}
+
+
+
+.keywordTextBlk {font-size: 12px; color:#000000; padding: 15px 10px 10px 10px;text-align:left}
+
+.keywordTextGray {font-size: 12px; color:#8A8A8A; padding: 15px 10px 10px 10px;}
+
+
+
+a.keywordLink:link {font-size: 12px; color:#808080;}
+
+a.keywordLink:hover {font-size: 12px; color:#FFCC00;}
+
+a.keywordLink {font-size:12px;}
+
+.topbanner {background-image:url(images/banner-top.gif); background-repeat: no-repeat;}
+
+
+
+.keywords {padding: 3px 0px 2px 0px;}
+
+.tinyText {font-size:10px;}
+
+
+
+.topBG {
+
+	background-image: url(images/bg-tv-repeat.jpg);
+
+	background-repeat: repeat;
+
+	padding-left: 33px;
+
+	padding-right: 0px;
+
+	padding-top: 0px;
+
+}
+
+.contactFormSpacing {padding: 5px 0px 5px 8px;}
+
+.bottomText {font-size:14px; font-weight: bold;}
+
+
+
+a.lobby:link {font-size: 14px; color: #4f94b5; text-decoration:none;}
+
+a.lobby:hover {font-size: 14px; color:#FFCC00; text-decoration:underline;}
+
+a.lobby:visited {font-size: 14px; color: #4f94b5; text-decoration:none;}
+
+a.lobby {color: #4f94b5}
+
+
+
+.fl{ float:left;}
+
+
+
+.slidepart{ width:729px; height:479px; overflow:hidden; position:relative;left:0}
+
+.slidepart img {position:absolute; left:0}
+
+.sl_paginationpart{ background:url(cssimages/slide_paginationbg.png) no-repeat left; width:200px; height:15px; display:block; padding:6px;margin-left: auto;margin-right: auto;}
+
+
+
+ul.slpagination{ margin:0px; padding:0px; list-style:none; font-family:arial; }
+
+ul.slpagination li{ margin:0px; padding:0px; list-style:none; float:left; }
+
+ul.slpagination li a.prev{
+
+	background:url(cssimages/sl_prev.png) no-repeat;
+
+	width:14px;
+
+	height:15px;
+
+	display:block;
+
+	margin-top: 2px;
+
+}
+
+ul.slpagination li a.next{background:url(cssimages/sl_next.png) no-repeat; width:14px; height:15px; display:block; margin-top: 2px; }
+
+ul.slpagination li a.number{background:url(cssimages/sl_nobg.png) no-repeat; width:18px; height:18px ; display:block; text-align:center; margin:0px 3px; font-size:12px; font-weight:bold; color:#006aa6; text-decoration:none; }
+
+ul.slpagination li a.select{background:url(cssimages/select_sl.png) no-repeat;color:#fff; }
+
+
+
+.prodboxbg{
+
+	/*background-image: url(images/prodline.jpg);
+
+	background-repeat: repeat-y;*/	
+
+	border-right-width: 2px;
+
+	border-left-width: 2px;
+
+	border-right-style: solid;
+
+	border-left-style: solid;
+
+	border-right-color: #d3d3d3;
+
+	border-left-color: #d3d3d3;
+
+	width:746px;
+
+}
+
+.proddetail{
+
+	padding:10px;
+
+	padding-top:10px;
+
+	margin-top:0px;
+
+	background-image: url(images/proddetailbg.jpg);
+
+	background-repeat: no-repeat;
+
+	overflow:hidden;
+
+	z-index:-999;
+
+	background-position: center top;
+
+	
+
+}
+
+.fadedetail
+
+{
+
+	background-image: url(images/faderepeat.png);
+
+	background-repeat: repeat-y;
+
+	background-position: right;
+
+	width:460px;
+
+	font-size:12px;
+
+}
+
+.fadebottom{
+
+	background-image: url(images/fadebottom.png);
+
+	background-repeat: no-repeat;
+
+	background-position: right bottom;
+
+	height:32px;
+
+	width:460px;
+
+}
+
+.fadetop{
+
+	width:460px;
+
+	background-image: url(images/fadetop.png);
+
+	background-repeat: no-repeat;
+
+	background-position: right bottom;
+
+	background-repeat: repeat-y;
+
+	height:38px;
+
+}
+
+.fadecontent{
+
+	text-align:left;
+
+	margin-right:15px;
+
+	}
+
+.custreview{
+
+	text-align:left;
+
+	}
+
+h4{font-size:16px;font-weight:bold}
+
+table td{font-size:12px;}
+
+.formbox{
+	height:300px;
+	padding-left:10px;
+	padding-top:15px;
+	background-image: url(images/formbg.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px bottom;
+}
+
+.formbox2{
+	height:445px;
+	padding-left:10px;
+	padding-top:15px;
+	background-image: url(images/formbox2.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px top;
+}
+
+.txtheight{height:78px}
+
+.rndbg {
+
+	width:100%;
+
+	background-image: url(images/giftbg.jpg);
+
+	background-repeat: no-repeat;	
+
+	padding-top:5px;
+
+}
+
+.inputpad{margin-top:5px}
+
+#rotator {
+
+  background: url(images/randommotto/rotator.php) no-repeat center top;
+
+  width: 848px;
+
+  height: 84px;
+
+  text-align:right;
+
+  overflow:hidden;
+border-left:1px solid #808080;
+	border-right:1px solid #808080;
+}
+
+#rotator .schedule{
+
+	display:block;
+
+	padding-top:10px;
+
+	font-size:1.23em;
+
+	font-weight:bold;
+
+	padding-right:40px;
+
+	text-decoration:underline;
+
+	}
+
+
+
+#rotator .schedule a:hover{
+
+	color:#F7BA00;
+
+	}
+
+	
+
+
+
+#rotator .pricing{
+
+	width:150px;
+
+	height:100px;
+
+	padding-top:65px;
+
+	cursor: pointer;
+
+	float:left;
+
+	}
+
+#rotator .gideabox{
+
+	float:left;
+
+	width:230px;
+
+	height:100px;
+
+	padding-top:65px;
+
+	cursor: pointer;
+
+	margin-left:150px;
+
+	}
+
+#rotator .prepaidbox{
+
+	width:250px;
+
+	margin-left:580px;
+
+	height:100px;
+
+	padding-top:65px;cursor: pointer;
+
+	}
+
+	
+
+.headfont{
+
+	font-family:Arial, Helvetica, sans-serif;
+
+	font-size:16px;
+
+	font-weight:normal;text-align:center}
+
+
+
+.mainBG2 {
+
+	background-image: url(images/bg-tv-repeat.jpg);
+
+	background-repeat:repeat-y;
+
+	padding-left: 50px;
+
+	padding-right: 50px;
+
+	padding-top: 0px;
+
+	widows:850px;
+
+	background-position:center;
+
+}
+.tyronpos{text-align:left;display:block;width:231px;height:190px;cursor:pointer;background-image: url(images/Honest-Install-Tyron-Smith.jpg);position:absolute;margin-left:530px;margin-top:-124px;background-repeat:no-repeat}
+/*.tyronpos{text-align:left;display:block;width:231px;height:190px;cursor:pointer;background-image: url(images/Honest-Install-Tyron-Smith.jpg);position:absolute;margin-left:585px;margin-top:-124px;background-repeat:no-repeat}*/
+
+.archivohead{font-family: 'archivo_narrowregular', sans-serif;font-size:20px;font-weight:bold;color:#5a5a5a}
+
+
+.yellowmenu{color:#FFCC04;display:block}
+.yellowmenu:hover{color:#fff;}

@@ -1,0 +1,235 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+<head>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js"></script>
+
+<script>
+
+$(document).ready(function() {
+
+	//move the image in pixel
+	var move = -15;
+	
+	//zoom percentage, 1.2 =120%
+	var zoom = 1.2;
+
+	//On mouse over those thumbnail
+	$('.zitem').hover(function() {
+		
+		//Set the width and height according to the zoom percentage
+		width = $('.zitem').width() * zoom;
+		height = $('.zitem').height() * zoom;
+		
+		//Move and zoom the image
+		//$(this).find('img').stop(false,true).animate({'width':width, 'height':height, 'top':move, 'left':move}, {duration:200});
+		
+		//Display the caption
+		$(this).find('div.caption').stop(false,true).fadeIn(200);
+		//Hide the caption
+		$(this).find('div.caption').stop(false,true).fadeOut(200);
+	},
+	function() {
+		//Reset the image
+		//$(this).find('img').stop(false,true).animate({'width':$('.zitem').width(), 'height':$('.zitem').height(), 'top':'0', 'left':'0'}, {duration:100});	
+		
+		$(this).find('div.caption').stop(false,true).fadeIn(200);
+	});
+
+});
+
+</script>
+<style>
+body {
+	font-family:arial;	
+}
+
+.zitem {
+	width:258px;
+	height:200px;	
+	border:1px solid #CCC;	
+	margin:8px 8px 8px 0;
+	
+	/* required to hide the image after resized */
+	overflow:hidden;
+	
+	/* for child absolute position */
+	position:relative;
+	
+	/* display div in line */
+	float:left;
+}
+
+.zitem .caption {
+	font-family:Arial, Helvetica, sans-serif;
+	background:#000;
+	color:#fff;
+	font-weight:normal;
+	font-size:9pt;
+	padding:5px;
+		
+	/* fix it at the bottom */
+	position:absolute;
+	bottom:-1px; /* fix IE issue */
+	left:0;
+
+	/* hide it by default */
+
+	/* opacity setting */
+	filter:alpha(opacity=70);    /* ie  */
+	-moz-opacity:0.7;    /* old mozilla browser like netscape  */
+	-khtml-opacity: 0.7;    /* for really really old safari */  
+	opacity: 0.7;    /* css standard, currently it works in most modern browsers like firefox,  */
+
+}
+
+.zitem .caption a {
+	text-decoration:none;
+	color:#fff;
+	font-size:12px;	
+	
+	/* add spacing and make the whole row clickable*/
+	padding:5px;
+	display:block;
+}
+
+.zitem img {
+	border:0;
+	
+	/* allow javascript moves the img position*/
+	position:absolute;
+}
+
+.clear {
+	clear:both;	
+}
+</style>
+</head>
+
+<body>
+
+
+<div class="zitem">
+	<a href="#"><img src="/images/Black diamond.jpg"  title="" height="200"/></a>
+	<div class="caption">
+		<strong>BLACK DIAMOND SCREENS</strong><br>
+
+View Black Diamond projector screen technology: light rejecting screen material filters unwanted light for a brilliant image - lights on or off.
+	</div>
+</div>
+
+<div class="zitem" style="width:266px">
+	<a href="#"><img src="/images/coffee-cup-02.jpg" title=""/></a>
+	<div class="caption">
+		<strong>GOURMET COFFEE BAR</strong><br />
+
+Enjoy some hot coffee, cappuccino or hot-cocoa while you browse the expo. Fresh pop-corn too…
+
+	</div>
+</div>
+<div class="zitem" style="width:278px">
+	<a href="#"><img src="/images/gaming center.jpg" title=""/></a>
+	<div class="caption">
+		<strong>OUR GAME GARAGE</strong><br />
+
+Play PS4 & XBOX One on a 4K capable movie projector. You won't wanna go back.
+
+
+	</div>
+</div>
+<div class="zitem" style="width:354px">
+	<a href="#"><img src="/images/Deezer hi-res audio.jpg" title=""/></a>
+	<div class="caption">
+		<strong>HI-RES AUDIO ANYONE?</strong><br />
+
+Experience the newest music service by Deezer with 35 million songs all in hi-res.
+
+
+	</div>
+</div>
+<div class="zitem">
+	<a href="#"><img src="/images/Occulus rift 1.jpg" title=""/></a>
+	<div class="caption">
+		<strong>TRY THE OCULUS RIFT
+</strong><br />
+Yep, we got one, demo the Occulus Rift. You won't look very attractive while doing it but it's really cool...
+	</div>
+</div>
+
+<div class="zitem"  style="width:190px">
+	<a href="#"><img src="/images/sonos studio2.jpg" title=""/></a>
+	<div class="caption">
+		<strong>
+SONOS - WIRELESS HI-FI SYSTEM </strong><br />
+Knowing it is to love it, If you don't know it, get ready for a love affair. For music lovers only.
+
+	</div>
+</div>
+
+<div class="zitem" style="width:266px;height:200px">
+	<a href="#"><img src="/images/popcorn.jpg" height=200/></a>
+	<div class="caption">
+		<strong>MMMMMMMM...</strong><br />
+Can't you smell it? Fresh popped movie-theater style popcorn on hand. Bring your own left over dipping gravy if you desire.
+
+
+	</div>
+</div>
+
+<div class="zitem">
+	<a href="#"><img src="/images/raffle-tickets.jpg" title=""/></a>
+	<div class="caption">
+		<strong>ATTEND & WIN</strong><br />
+
+Three days, eight raffles. You do the math, that's pretty dang good odds...
+
+	</div>
+</div>
+
+
+<div class="zitem" style="width:278px">
+	<a href="#"><img src="/images/santa cell phone.jpg" title=""/></a>
+	<div class="caption">
+		<strong>SANTA CLAUS IS COMIN' TO HONEST-TOWN</strong><br />
+Real-life Santa was nice enough to commit to three days of brining joy and smiles (and tears) to all the children that attend (and big kids too). Bring your cameras and charge your phones.
+
+	</div>
+</div>
+
+<div class="zitem" style="width:229px">
+	<a href="#"><img src="/images/projectors and theater.jpg" title=""/></a>
+	<div class="caption">
+		<strong>PROJECTORS</strong><br />
+They're not just for the media room anymore, we have them by Epson, Sony & JVC.
+
+	</div>
+</div>
+
+<div class="zitem" style="width:300px">
+	<a href="#"><img src="/images/invisible speakers2.jpg" title=""/></a>
+	<div class="caption">
+		<strong>INVISIBLE SPEAKERS</strong><br />
+
+Can you see the speakers?  Of course not silly, that's because they are truly invisible. Sonance invisible speakers on display. Not available in stores.
+
+
+	</div>
+</div>
+<div class="zitem" style="width:273px">
+	<a href="/popup.php#oops" target="_top"><img src="/images/Back to the Future Delorean Time Machine SMALL.jpg" title=""/></a>
+	<div class="caption">
+		<strong>OOPS! NEXT TIME...</strong><br />
+Great Scott! So we made a little error in measuring so the BTTF Delorean will be back another day. Click to Read More
+
+
+	</div>
+</div>
+<div class="clear"></div>
+
+
+
+
+</body>
+
+</html>

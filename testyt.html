@@ -1,0 +1,117 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <!--
+Copyright (c) 2015 by Joshua Blackwood (http://codepen.io/JoshBlackwood/pen/yoLBJ)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+-->
+
+  <title>CodePen - A Pen by  Joshua Blackwood</title>
+
+  
+</head>
+
+<body>
+<script>
+$(document).ready(function() {
+	$('.question1').click(function(){
+		$('.new_member_box_display').html($('#answer1').html());
+	})
+
+	$('.question2').click(function(){
+		$('.new_member_box_display').html($('#answer2').html());
+	})
+
+	$('.question3').click(function(){
+		$('.new_member_box_display').html($('#answer3').html());
+	})
+
+	$('.question4').click(function(){
+		$('.new_member_box_display').html($('#answer4').html());
+	})
+	
+});//end of ready
+</script>
+<style>
+.new_member_box_display{
+	min-height: 300px;
+	height: auto;
+	background-color: #e6ebe4; 
+	padding: 20px;
+	margin: 25px 0px 10px 0px;
+	border-radius: 3px;
+}
+
+
+.content_areas_left_textbody{
+	font-family: calibri;
+	margin: 20px 0px 20px 0px;
+	height: auto;
+}
+
+#answer1, #answer2, #answer3, #answer4{
+	display: none;
+}</style>
+<div class="new_member_box">
+                                <a href="#" class="question1"><h4>Vision</h4></a>
+                            </div>  
+
+                            <div class="new_member_box">
+                                <a href="#" class="question2"><h4>Church History</h4></a>
+                            </div>  
+
+                            <div class="new_member_box">
+                                <a href="#" class="question3"><h4>Becoming a Member</h4></a>
+                            </div>  
+
+                            <div class="new_member_box">
+                                <a href="#" class="question4"><h4>Pastor-in-Training</h4></a>
+                            </div> 
+                        </div>
+                        <div class="clear" class="question"></div>
+                        <div  id="answer1">
+                            1
+                        </div> 
+
+                        <div  id="answer2">
+                            2
+                        </div> 
+
+                        <div  id="answer3">
+                           3
+                        </div> 
+
+                        <div  id="answer4">
+                            4
+                        </div>   
+
+                        <div class="new_member_box_display" id="question">
+                            Text will appear here when one of the tabs above is clicked
+                        </div> 
+  <script src='//assets.codepen.io/assets/libs/fullpage/jquery-c152c51c4dda93382a3ae51e8a5ea45d.js'></script>
+
+
+  <script>
+  var $j = jQuery.noConflict();
+    $j('.au-img img').on('click', function (e) {
+    var $this = $j(this), $id = $this.attr('id'), $class = '.' + $j('.about-' + $id).attr('class').replace('hide', '');
+    $j('.default-text').addClass('hide');
+    $j('.about-' + $id).removeClass('hide');
+    $j('div[class*=about]').not($class).addClass('hide');
+});
+    //@ sourceURL=pen.js
+  </script>
+
+</body>
+
+</html>

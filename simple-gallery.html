@@ -1,0 +1,33 @@
+
+    <!-- Always include - To add the "Small Photo Gallery" to your project always add the following files to the head of your page  -->
+    
+    <!-- jQuery Libraries -->
+    
+    	<!-- CSS -->
+    		<link rel='stylesheet' type='text/css' href='simple-gallery/css/photo-gallery.css' />
+            
+		<!-- jQuery Libraries -->
+
+            <script type='text/javascript' src='simple-gallery/js/jquery.easing.js'></script>
+        
+        <!-- Small Photo Gallery -->
+           <script type='text/javascript' src='simple-gallery/js/galleryXML.min.js'></script>
+           <script type='text/javascript' src='simple-gallery/js/galleryNav.min.js'></script>
+           <script type='text/javascript' src='simple-gallery/js/gallerySetup.js'></script>
+           <script type='text/javascript'>
+				$(document).ready(function () {
+
+				//Change XML URL Here:
+
+				 $.loadXML("simple-gallery/xml/smallPhotoGallery.xml", function(evt, val){
+
+						$(".photo-gallery").photoGallery({content:this.content});
+
+					});
+
+				});		   
+		   </script>
+        <!-- Always include-->
+     
+<div class="photo-gallery"></div>
+

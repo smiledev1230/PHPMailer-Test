@@ -1,4 +1,7 @@
 <?php
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
@@ -23,7 +26,7 @@ try {
     ];
     }
 
-    $mailer->Host = 'mail.honestinstall.com';
+    $mailer->Host = 'smtp.gmail.com';
     $mailer->SMTPAuth = true;
     $mailer->Username = 'honestinstallinquiry@gmail.com';
     $mailer->Password = 'GMZyrhiGbzLU';
@@ -31,12 +34,12 @@ try {
     $mailer->Port = 465;
 
     $mailer->setFrom('honestinstallinquiry@gmail.com', 'Name of sender');
-    $mailer->addAddress('fidero1230@outlook.com', 'Name of recipient');
+    $mailer->addAddress('suyadi@gmail.com', 'Name of recipient');
 
     $mailer->isHTML(true);
     $mailer->Subject = 'PHPMailer Test';
     $mailer->Body = 'This is a <b>SAMPLE<b> email sent through <b>PHPMailer<b>';
-
+//echo 'test';
     $mailer->send();
     $mailer->ClearAllRecipients();
     echo "MAIL HAS BEEN SENT SUCCESSFULLY";
