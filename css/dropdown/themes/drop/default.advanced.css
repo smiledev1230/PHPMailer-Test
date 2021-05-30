@@ -1,0 +1,112 @@
+@charset "UTF-8";
+
+/** 
+ * NVIDIA Advanced CSS Drop-Down Menu Theme
+ *
+ * @file		default.advanced.css
+ * @name		NVIDIA
+ * @version		0.1
+ * @type		transitional
+ * @browsers	Windows: IE5+, Opera7+, Firefox1+
+ *				Mac OS: Safari2+, Firefox2+
+ *
+ * @link		http://www.lwis.net/
+ * @copyright	2008 Live Web Institute
+ *
+ */
+
+@import "default.css";
+
+
+ul.dropdown li a {
+ display: block;
+ padding: 9px 19px;
+}
+
+
+/* ------------- Override default */
+
+	ul.dropdown li {
+	 padding: 0;
+	}
+
+
+/* ------------- Reinitiate default: post-override activities  */
+
+	ul.dropdown li.dir {
+	 padding: 7px 20px 7px 14px;
+	}
+
+	ul.dropdown ul li.dir {
+	 padding-right: 15px;
+	}
+
+
+/* ------------- Custom */
+
+	ul.dropdown li {
+
+	}
+
+	ul.dropdown ul a {
+	 padding: 4px 5px 4px 14px;
+	 width: 151px; /* Especially for IE */
+	}
+
+	ul.dropdown ul a:hover {
+	}
+
+	ul.dropdown a.open {
+	 color: #76b900;
+	}
+
+	ul.dropdown ul a.open {
+	 color: #ffcc00;
+	}
+
+
+	/* CSS 2.1 */
+
+	ul.dropdown li:hover > a.dir {
+	 color: #ffcc00;
+	}
+
+	ul.dropdown ul li:hover > a.dir {
+	 color: #ffcc00;
+	}
+	
+	
+	l.dropdown li.dir2 {
+	 padding: 7px 20px 7px 14px;
+	}
+
+	ul.dropdown ul li.dir2 {
+	 padding-right: 15px;
+	}
+	
+	ul.dropdown li:hover > a.dir2 {
+	 color: #ffcc00;
+	}
+
+	ul.dropdown ul li:hover > a.dir2{
+	 color: #ffcc00;
+	}
+	ul.dropdown ul {
+	 width: 280px;
+	 background-color: #878787;
+	 color: #fff;
+	 font-size: 12px;
+	 text-transform: none;
+	 font-family:Arial, Helvetica, sans-serif;
+	 margin-top:-3px;
+	 padding-bottom:5px;
+	}
+ul.dropdown {
+ font-family: 'FuturaMedium';
+ font-size:15px;
+ text-transform: uppercase;
+ font-weight:normal;
+ color:#e6e6e6;
+}
+
+.greyclr a{color:#313131}

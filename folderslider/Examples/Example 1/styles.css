@@ -1,0 +1,10 @@
+#example_1_container {
+    width:825px;
+    height:550px;
+}
+
+#example_1_container .easy_slides_caption {
+    width:825px;
+    height:50px;
+    padding: 10px 0 0 10px;
+}

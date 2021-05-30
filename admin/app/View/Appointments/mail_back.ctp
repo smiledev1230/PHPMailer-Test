@@ -1,0 +1,1 @@
+<h2 style="color: red;">We have received your notification, we will proceed it, thank you.</h2>

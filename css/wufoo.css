@@ -1,0 +1,8 @@
+#containter{width:900px!important}
+input.medium, select.medium{width:100%!important}
+#Field3_other{width:92%!important}
+@media only screen and (min-width: 700px) {
+	form.wufoo{padding-left:25%!important;padding-right:25%!important}
+}
+#title120{display:none}
+section,#instruct120{margin-top:-20px}

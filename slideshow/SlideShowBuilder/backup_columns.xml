@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<POSITIONS>
+
+<COLUMN>
+	<settings>
+		<align>UP</align>
+		<type>5</type>
+	</settings>
+	
+	<item>
+		<itemid>1</itemid>
+		<itemx>20</itemx>
+		<itemy>25</itemy>
+		<itemw>200</itemw>
+		<itemh>260</itemh>
+	</item>
+</COLUMN>
+
+<COLUMN>
+	<settings>
+		<align>UP</align>
+		<type>0</type>
+	</settings>
+	
+	<item>
+		<itemid>2</itemid>
+		<itemx>240</itemx>
+		<itemy>25</itemy>
+		<itemw>420</itemw>
+		<itemh>260</itemh>
+	</item>
+</COLUMN>
+<COLUMN>
+<settings>
+<align>null</align>
+<type>7</type>
+</settings><item>
+<itemid>2</itemid>
+
+<itemx>680</itemx>
+
+<itemy>25</itemy>
+
+<itemw>200</itemw>
+
+<itemh>120.1</itemh>
+
+</item>
+<item>
+<itemid>0</itemid>
+
+<itemx>680</itemx>
+
+<itemy>165</itemy>
+
+<itemw>227.7</itemw>
+
+<itemh>190.5</itemh>
+
+</item>
+</COLUMN>
+<COLUMN>
+<settings>
+<align>UP</align>
+<type>0</type>
+</settings><item>
+<itemid>2</itemid>
+
+<itemx>917.1</itemx>
+
+<itemy>25</itemy>
+
+<itemw>420</itemw>
+
+<itemh>260</itemh>
+
+</item>
+</COLUMN>
+<COLUMN>
+<settings>
+<align>null</align>
+<type>6</type>
+</settings>
+<item>
+<itemid>2</itemid>
+
+<itemx>1357.1</itemx>
+
+<itemy>25</itemy>
+
+<itemw>200</itemw>
+
+<itemh>120.1</itemh>
+
+</item>
+<item>
+<itemid>1</itemid>
+
+<itemx>1357.1</itemx>
+
+<itemy>165</itemy>
+
+<itemw>200</itemw>
+
+<itemh>260</itemh>
+
+</item>
+</COLUMN>
+<COLUMN>
+<settings>
+<align>null</align>
+<type>9</type>
+</settings><item>
+<itemid>0</itemid>
+
+<itemx>1577.1</itemx>
+
+<itemy>25</itemy>
+
+<itemw>227.7</itemw>
+
+<itemh>190.5</itemh>
+
+</item>
+<item>
+<itemid>4</itemid>
+
+<itemx>1577.1</itemx>
+
+<itemy>235</itemy>
+
+<itemw>227.7</itemw>
+
+<itemh>190.5</itemh>
+
+</item>
+</COLUMN>
+
+</POSITIONS>

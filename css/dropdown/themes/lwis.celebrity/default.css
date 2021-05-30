@@ -1,0 +1,119 @@
+@charset "UTF-8";
+
+/** 
+ * LWIS Celebrity CSS Drop-Down Menu Theme
+ *
+ * @file		default.css
+ * @name		Default
+ * @version		0.1
+ * @type		transitional
+ * @browsers	Windows: IE5+, Opera9+, Firefox2+
+ *				Mac OS: Safari2+, Firefox2+
+ *
+ * @link		http://www.lwis.net/
+ * @copyright	2009 Live Web Institute. All Rights Reserved.
+ *
+ */
+
+
+/*-------------------------------------------------/
+ * @section		Base Drop-Down Styling
+ */
+
+
+ul.dropdown {
+ font-family: 'FuturaMedium';
+ font-size:15px;
+ text-transform: uppercase;
+ font-weight:normal;
+ color:#fff;
+ cursor:pointer;
+
+}
+
+	ul.dropdown li {
+	 padding: 0 10px;
+	 background-color: transparent;
+	 color: #fff;
+	}
+
+	ul.dropdown li.last ul li {
+	 float:left;
+			 width:140px;
+	}
+
+	ul.dropdown li.hover,
+	ul.dropdown li:hover {
+	 background-color: #878787;
+	 color: #fff;
+	 color:#FC0;
+	}
+
+	ul.dropdown a:link,
+	ul.dropdown a:visited	{ color: #fff; text-decoration: none; }
+	ul.dropdown a:hover		{ color: #FC0; }
+	ul.dropdown a:active	{ color: #FC0; }
+
+
+	/* -- level mark -- */
+
+	ul.dropdown ul {
+	 background-color: #878787;
+	 font-size: 12px;
+	 letter-spacing: normal;
+	 
+	}
+
+	* html ul.dropdown ul {
+	 width: 840px;
+	}
+
+		ul.dropdown ul li {
+		 font-weight: bold;
+		}
+
+		/* -- level mark -- */
+
+		ul.dropdown ul ul {
+		 margin-top: 5px;
+		 text-transform: none;
+		 border:0px;
+		}
+
+			ul.dropdown ul ul li {
+			 font-weight: normal;
+			 float:left;
+			 width:170px;
+				float:left;
+				border-bottom:1px dotted #ccc;
+			}
+			
+			ul.dropdown ul ul li a{
+				
+				width:140px;
+				float:left;
+				display:block;
+			}
+
+
+/*-------------------------------------------------/
+ * @section		Support Class `dir`
+ */
+
+
+ul.dropdown *.dir {
+padding-right: 24px;
+margin-right:5px;
+background-image: none;
+background-position: 100% 50%;
+background-repeat: no-repeat;
+background-image: url('down.jpg');
+}
+
+ul.dropdown ul *.dir {
+ background-image: none;
+}
+
+
+.yellowmenu1:hover{color:#fff;}
+.yellowmenu1 {color:#FDD423}

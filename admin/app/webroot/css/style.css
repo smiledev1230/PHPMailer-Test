@@ -1,0 +1,152 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+#pagewidth {
+	width: 850px;
+	text-align: left;
+	margin:0 auto;
+}
+
+#header {
+	height: 137px;
+	background-color: #FFFFFF;
+	width: 100%;
+	display: block;
+}
+
+#maincol {
+	background-color: #FFFFFF;
+}
+
+#footer {
+	height: 109px;
+	background-color: #FFFFFF;
+	clear: both;
+	display: block;
+	overflow: auto;
+}
+
+
+.clearfix:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
+.clearfix{ display: inline-block; }
+
+/* Hides from IE-mac \*/
+* html .clearfix{ height: 1%; }
+.clearfix{ display: block; }
+/* End hide from IE-mac */
+
+#home_search {
+	float: left;
+	width: 750px;
+}
+
+#search_name {
+	float: left;
+	width: 400px;
+}
+
+#search_email {
+	float: left;
+	width: 400px;
+}
+
+#home_users {
+	float: left;
+	width: 700px;
+}
+
+.message { font-size: 13px; color: red; }
+.input_error { color: red; }
+
+ 
+#category_add {
+	float: left;
+	width: 440px;
+}
+
+#category_name {
+	float: left;
+	width: 750px;
+}
+
+#categories_dropdown {
+	float: left;
+	width: 750px;
+}
+
+#catrgories {
+	float: left;
+	padding: 0;
+	font-size: 14px;
+}
+
+.categories_node { padding: 7px 0 0 0; }
+
+.action_icons {
+	float: left;
+	width: 36px;
+	height: 14px;
+	padding: 0 6px 0 5px;
+}
+.icon_edit {
+	float: left;
+	width: 14px;
+	height: 14px;
+	padding-right: 4px;
+}
+.icon_delete {
+	float: left;
+	width: 14px;
+	height: 14px;
+	padding-right: 4px;
+}
+
+.div_prod {
+	width: 146px;
+	height: 255px;
+	float: left;
+}
+
+.li_prod {
+	width: 146px !important;
+	height: 255px !important;
+}
+
+.div_prod_name {
+	float: left;
+	width: 146px;
+}
+
+.table_prod td { text-align: center; }
+
+.error-message {
+	color: red;
+	font-style: italic;
+}
+
+#appointment_index table th { font-size:12px;}
+#appointment_index table td {
+	font-size: 12px;
+}
+
+#dhtmltooltip {
+	position: absolute;
+	width: 150px;
+	border: 2px solid black;
+	padding: 2px;
+	background-color: lightyellow;
+	visibility: hidden;
+	z-index: 100;
+	/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+	filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+}

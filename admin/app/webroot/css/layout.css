@@ -1,0 +1,56 @@
+#pagewidth{
+    width: 1100px; 
+    border-bottom: 4px solid black;
+    border-left: 4px solid black;
+    border-right: 4px solid black;
+
+}
+
+#wrapper{
+    width: 1100px;
+    border-left: 4px solid black;
+    border-right: 4px solid black;
+    border-bottom: 4px solid black;                
+}
+
+.mainBG{
+    width: 1000px;
+    min-height: 400px;
+    background: none;
+    padding-top: 35px;
+}
+
+#nav-wrap{
+    width: 1100px;
+	
+}
+
+.nav{
+    height: 100px;
+    border-bottom: 4px solid black;
+    background-color: #f4efd1;
+}
+
+ul.dropdown{
+	margin-top: 13px;
+}
+
+#nav-style{
+    height: 40px;
+    position: absolute;
+    z-index: 100;
+    background-color: #878787;
+    width: 1100px;
+}
+
+#header{
+    height: 100px;
+}
+
+body{
+    text-align: left;
+}
+
+#home_users{
+    text-align: center;
+}

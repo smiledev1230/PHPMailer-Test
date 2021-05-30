@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.nav{
+	padding-top:4px;
+	height:33px;
+	padding-bottom:1px;
+}
+	
+.jshowoff-controls a {
+	padding-right:100px;
+	padding-bottom:0px;
+	}
+p.jshowoff-controls {
+	overflow: auto;
+	height: 1%;
+	padding-left:305px;
+	padding-top: 0;
+	padding-right: 0;
+	padding-bottom: 4px;
+	}
+#nav-wrap{
+width:840px;
+padding-left:30px;
+}
+
+.greyclr a{color:#313131}

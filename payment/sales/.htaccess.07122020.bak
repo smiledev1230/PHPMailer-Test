@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "sales"
+AuthUserFile "/home/honest25/.htpasswds/public_html/payment/sales/passwd"
+require valid-user

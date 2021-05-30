@@ -1,0 +1,531 @@
+<?xml version="1.0"?>
+<SLIDESHOW>
+<SETTINGS>
+	<speed>2</speed>
+	<chron>1</chron>
+	<navtype>1</navtype>
+	<standardsize>1</standardsize>
+	<custompos>1</custompos>
+</SETTINGS>
+<ITEMS>
+	<item>
+		<type>1</type>
+		<highlight>1</highlight>
+		<title>Game of Throne1s1</title>
+		<content>
+			Seven noble families fight for control of the mythical land of Westeros.
+		</content>
+		<resize>1</resize>
+		<navigate>http://www.imdb.com/title/tt0944947</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>CENTER</align>
+	</item>
+	
+	<item>
+		<type>2</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/09/Game-of-Thrones.png
+		</content>
+		<resize>2</resize>
+		<navigate>0</navigate>
+		<allowneighbors>0</allowneighbors>
+		<align>DOWN</align>
+	</item>
+	
+	<item>
+		<type>3</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/10/tyron-lannister.jpg
+		</content>
+		<resize>2</resize>
+		<navigate>http://whatculture.com/tv/game-of-thrones-season-3-7-most-intriguing-castings-thus-far.php</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>UP</align>
+	</item>
+	
+	<item>
+		<type>2</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/10/dave-lister-red-dwarf.jpg
+		</content>
+		<resize>400x200</resize>
+		<navigate>0</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>RANDOM</align>
+	</item>
+	
+	<item>
+		<type>1</type>
+		<highlight>0</highlight>
+		<title>Dr Bob Kelso</title>
+		<content>
+			Let me break this down for you, Bobbo style!
+		</content>
+		<resize>1</resize>
+		<navigate>http://whatculture.com/tv/10-greatest-wise-asses-in-tv-history-2.php/3</navigate>
+		<allowneighbors>0</allowneighbors>
+		<align>RANDOM</align>
+	</item>
+	
+	<item>
+		<type>3</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/10/fbbfbf.jpg
+		</content>
+		<resize>200x100</resize>
+		<navigate>http://whatculture.com/tv/10-greatest-wise-asses-in-tv-history-2.php/4</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>DOWN</align>
+	</item>
+	
+	<item>
+		<type>2</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/10/louie-de-pla.jpg
+		</content>
+		<resize>0</resize>
+		<navigate>0</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>UP</align>
+	</item>
+	
+	<item>
+		<type>3</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/10/rody.jpg
+		</content>
+		<resize>2</resize>
+		<navigate>http://whatculture.com/tv/10-greatest-wise-asses-in-tv-history-2.php/6</navigate>
+		<allowneighbors>0</allowneighbors>
+		<align>RANDOM</align>
+	</item>
+	
+	<item>
+		<type>1</type>
+		<highlight>1</highlight>
+		<title>Bender – Futurama</title>
+		<content>
+			Bite my shiny metal ass!
+		</content>
+		<resize>1</resize>
+		<navigate>http://whatculture.com/tv/10-greatest-wise-asses-in-tv-history-2.php/7</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>RANDOM</align>
+	</item>
+	
+	<item>
+		<type>2</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/10/malcolm-tucker.jpg
+		</content>
+		<resize>2</resize>
+		<navigate>0</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>RANDOM</align>
+	</item>
+	
+	<item>
+		<type>1</type>
+		<highlight>1</highlight>
+		<title>Game of Thrones</title>
+		<content>
+			Seven noble families fight for control of the mythical land of Westeros.
+		</content>
+		<resize>1</resize>
+		<navigate>http://www.imdb.com/title/tt0944947</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>CENTER</align>
+	</item>
+	
+	<item>
+		<type>2</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/09/Game-of-Thrones.png
+		</content>
+		<resize>2</resize>
+		<navigate>0</navigate>
+		<allowneighbors>0</allowneighbors>
+		<align>DOWN</align>
+	</item>
+	
+	<item>
+		<type>3</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/10/tyron-lannister.jpg
+		</content>
+		<resize>2</resize>
+		<navigate>http://whatculture.com/tv/game-of-thrones-season-3-7-most-intriguing-castings-thus-far.php</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>UP</align>
+	</item>
+	
+	<item>
+		<type>2</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/10/dave-lister-red-dwarf.jpg
+		</content>
+		<resize>400x200</resize>
+		<navigate>0</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>RANDOM</align>
+	</item>
+	
+	<item>
+		<type>1</type>
+		<highlight>0</highlight>
+		<title>Dr Bob Kelso</title>
+		<content>
+			Let me break this down for you, Bobbo style!
+		</content>
+		<resize>1</resize>
+		<navigate>http://whatculture.com/tv/10-greatest-wise-asses-in-tv-history-2.php/3</navigate>
+		<allowneighbors>0</allowneighbors>
+		<align>RANDOM</align>
+	</item>
+	
+	<item>
+		<type>3</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/10/fbbfbf.jpg
+		</content>
+		<resize>200x100</resize>
+		<navigate>http://whatculture.com/tv/10-greatest-wise-asses-in-tv-history-2.php/4</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>DOWN</align>
+	</item>
+	
+	<item>
+		<type>2</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/10/louie-de-pla.jpg
+		</content>
+		<resize>0</resize>
+		<navigate>0</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>UP</align>
+	</item>
+	
+	<item>
+		<type>3</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/10/rody.jpg
+		</content>
+		<resize>2</resize>
+		<navigate>http://whatculture.com/tv/10-greatest-wise-asses-in-tv-history-2.php/6</navigate>
+		<allowneighbors>0</allowneighbors>
+		<align>RANDOM</align>
+	</item>
+	
+	<item>
+		<type>1</type>
+		<highlight>1</highlight>
+		<title>Bender – Futurama</title>
+		<content>
+			Bite my shiny metal ass!
+		</content>
+		<resize>1</resize>
+		<navigate>http://whatculture.com/tv/10-greatest-wise-asses-in-tv-history-2.php/7</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>RANDOM</align>
+	</item>
+	
+	<item>
+		<type>2</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/10/malcolm-tucker.jpg
+		</content>
+		<resize>2</resize>
+		<navigate>0</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>RANDOM</align>
+	</item>
+	
+	<item>
+		<type>1</type>
+		<highlight>1</highlight>
+		<title>Game of Thrones</title>
+		<content>
+			Seven noble families fight for control of the mythical land of Westeros.
+		</content>
+		<resize>1</resize>
+		<navigate>http://www.imdb.com/title/tt0944947</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>CENTER</align>
+	</item>
+	
+	<item>
+		<type>2</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/09/Game-of-Thrones.png
+		</content>
+		<resize>2</resize>
+		<navigate>0</navigate>
+		<allowneighbors>0</allowneighbors>
+		<align>DOWN</align>
+	</item>
+	
+	<item>
+		<type>3</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/10/tyron-lannister.jpg
+		</content>
+		<resize>2</resize>
+		<navigate>http://whatculture.com/tv/game-of-thrones-season-3-7-most-intriguing-castings-thus-far.php</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>UP</align>
+	</item>
+	
+	<item>
+		<type>2</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/10/dave-lister-red-dwarf.jpg
+		</content>
+		<resize>400x200</resize>
+		<navigate>0</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>RANDOM</align>
+	</item>
+	
+	<item>
+		<type>1</type>
+		<highlight>0</highlight>
+		<title>Dr Bob Kelso</title>
+		<content>
+			Let me break this down for you, Bobbo style!
+		</content>
+		<resize>1</resize>
+		<navigate>http://whatculture.com/tv/10-greatest-wise-asses-in-tv-history-2.php/3</navigate>
+		<allowneighbors>0</allowneighbors>
+		<align>RANDOM</align>
+	</item>
+	
+	<item>
+		<type>3</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/10/fbbfbf.jpg
+		</content>
+		<resize>200x100</resize>
+		<navigate>http://whatculture.com/tv/10-greatest-wise-asses-in-tv-history-2.php/4</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>DOWN</align>
+	</item>
+	
+	<item>
+		<type>2</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/10/louie-de-pla.jpg
+		</content>
+		<resize>0</resize>
+		<navigate>0</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>UP</align>
+	</item>
+	
+	<item>
+		<type>3</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/10/rody.jpg
+		</content>
+		<resize>2</resize>
+		<navigate>http://whatculture.com/tv/10-greatest-wise-asses-in-tv-history-2.php/6</navigate>
+		<allowneighbors>0</allowneighbors>
+		<align>RANDOM</align>
+	</item>
+	
+	<item>
+		<type>1</type>
+		<highlight>1</highlight>
+		<title>Bender – Futurama</title>
+		<content>
+			Bite my shiny metal ass!
+		</content>
+		<resize>1</resize>
+		<navigate>http://whatculture.com/tv/10-greatest-wise-asses-in-tv-history-2.php/7</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>RANDOM</align>
+	</item>
+	
+	<item>
+		<type>2</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/10/malcolm-tucker.jpg
+		</content>
+		<resize>2</resize>
+		<navigate>0</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>RANDOM</align>
+	</item>
+	
+	<item>
+		<type>1</type>
+		<highlight>1</highlight>
+		<title>Game of Thrones</title>
+		<content>
+			Seven noble families fight for control of the mythical land of Westeros.
+		</content>
+		<resize>1</resize>
+		<navigate>http://www.imdb.com/title/tt0944947</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>CENTER</align>
+	</item>
+	
+	<item>
+		<type>2</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/09/Game-of-Thrones.png
+		</content>
+		<resize>2</resize>
+		<navigate>0</navigate>
+		<allowneighbors>0</allowneighbors>
+		<align>DOWN</align>
+	</item>
+	
+	<item>
+		<type>3</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/10/tyron-lannister.jpg
+		</content>
+		<resize>2</resize>
+		<navigate>http://whatculture.com/tv/game-of-thrones-season-3-7-most-intriguing-castings-thus-far.php</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>UP</align>
+	</item>
+	
+	<item>
+		<type>2</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/10/dave-lister-red-dwarf.jpg
+		</content>
+		<resize>400x200</resize>
+		<navigate>0</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>RANDOM</align>
+	</item>
+	
+	<item>
+		<type>1</type>
+		<highlight>0</highlight>
+		<title>Dr Bob Kelso</title>
+		<content>
+			Let me break this down for you, Bobbo style!
+		</content>
+		<resize>1</resize>
+		<navigate>http://whatculture.com/tv/10-greatest-wise-asses-in-tv-history-2.php/3</navigate>
+		<allowneighbors>0</allowneighbors>
+		<align>RANDOM</align>
+	</item>
+	
+	<item>
+		<type>3</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/10/fbbfbf.jpg
+		</content>
+		<resize>200x100</resize>
+		<navigate>http://whatculture.com/tv/10-greatest-wise-asses-in-tv-history-2.php/4</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>DOWN</align>
+	</item>
+	
+	<item>
+		<type>2</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/10/louie-de-pla.jpg
+		</content>
+		<resize>0</resize>
+		<navigate>0</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>UP</align>
+	</item>
+	
+	<item>
+		<type>3</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/10/rody.jpg
+		</content>
+		<resize>2</resize>
+		<navigate>http://whatculture.com/tv/10-greatest-wise-asses-in-tv-history-2.php/6</navigate>
+		<allowneighbors>0</allowneighbors>
+		<align>RANDOM</align>
+	</item>
+	
+	<item>
+		<type>1</type>
+		<highlight>1</highlight>
+		<title>Bender – Futurama</title>
+		<content>
+			Bite my shiny metal ass!
+		</content>
+		<resize>1</resize>
+		<navigate>http://whatculture.com/tv/10-greatest-wise-asses-in-tv-history-2.php/7</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>RANDOM</align>
+	</item>
+	
+	<item>
+		<type>2</type>
+		<highlight>0</highlight>
+		<title>0</title>
+		<content>
+			http://cdn.whatculture.com/wp-content/uploads/2012/10/malcolm-tucker.jpg
+		</content>
+		<resize>2</resize>
+		<navigate>0</navigate>
+		<allowneighbors>1</allowneighbors>
+		<align>RANDOM</align>
+	</item>
+</ITEMS>
+</SLIDESHOW>

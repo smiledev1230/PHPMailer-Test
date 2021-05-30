@@ -1,0 +1,48 @@
+.generalbordertb{
+    color: #808080;
+    /*font-family: 'Oswald:700';*/
+    font-family: 'archivo_narrowregular';  
+    text-align: center;    
+}
+
+#banner1{
+    height: 277px; width: 848px; background-image:url('Nest-Honest-Install-Smart2.jpg');
+}
+
+#banner2{
+    height: 282px; width: 848px; background-image:url('Nest-Honest-Install-Comfor2.jpg');
+}
+
+#banner3{
+    height: 284px; width: 848px; background-image:url('Nest-Honest-Install-Contrl2.jpg');
+}
+
+#banner1-content{
+    font-size: 18px;
+    text-align: left;
+    padding-top: 110px;
+    padding-left: 30px; 
+    font-size: 18px;
+    line-height:25px;
+}
+
+#banner2-content{
+    padding-top: 115px;
+    padding-right: 20px;
+    text-align: right;
+    font-size: 18px;
+    line-height:25px;
+}
+
+.bannerhead{
+    color:#f8cd04;font-weight:bold;
+    padding-top: 245px;
+    padding-left: 505px;
+    font-size: 18px;letter-spacing:-.5px}
+#banner3-content{
+    text-align: left;
+    padding-top: 110px;
+    padding-left: 30px;
+    font-size: 18px;
+    line-height:25px;
+}

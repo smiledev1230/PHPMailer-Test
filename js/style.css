@@ -1,0 +1,22 @@
+
+/* Sample 2*/
+#box2{
+	position:absolute;
+}
+#box2 span{
+	display:block;
+	float:left;
+}
+
+
+.mask2{
+	position:relative;
+	width:444px;
+	height:352px;
+	overflow:hidden;
+}
+
+span img{
+	display:block;
+	border:none;
+}

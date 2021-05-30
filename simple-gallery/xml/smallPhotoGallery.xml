@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+	<asset thumbnail="simple-gallery/img/thumbnail_01.jpg"  image="simple-gallery/img/image_01.jpg">
+		<title><![CDATA[Title goes here: <a href="#">Custom link</a>]]></title>
+		<description><![CDATA[Etiam dignissim imperdiet metus.]]></description>
+	</asset>
+	<asset thumbnail="simple-gallery/img/thumbnail_02.jpg" image="simple-gallery/img/image_02.jpg">
+		<title><![CDATA[Title goes here]]></title>
+		<description><![CDATA[Morbi non erat non ipsum pharetra tempus. Donec orci. Proin in ante. Pellentesque sit amet purus. Cras egestas diam sed ante. Etiam imperdiet urna sit amet risus. Donec ornare arcu id erat. Aliquam ultrices scelerisque sem.]]></description>
+	</asset>
+	<asset thumbnail="simple-gallery/img/thumbnail_03.jpg" image="simple-gallery/img/image_03.jpg">
+		<title><![CDATA[Title goes here]]></title>
+		<description><![CDATA[In elit nulla, molestie vel, ornare sit amet, interdum vel, mauris. Etiam dignissim imperdiet metus.]]></description>
+	</asset>
+	<asset thumbnail="simple-gallery/img/thumbnail_04.jpg" image="simple-gallery/img/image_04.jpg">
+		<title><![CDATA[Title goes here: <a href="#">Custom link</a>]]></title>
+		<description><![CDATA[Inornare sit amet, interdum vel, mauris. Etiam dignissim imperdiet metus.]]></description>
+	</asset>
+	<asset thumbnail="simple-gallery/img/thumbnail_05.jpg" image="simple-gallery/img/image_05.jpg">
+		<title><![CDATA[Title goes here]]></title>
+		<description><![CDATA[In elit nulla mauris.]]></description>
+	</asset>
+	<asset thumbnail="simple-gallery/img/thumbnail_06.jpg"  image="simple-gallery/img/image_06.jpg">
+		<title><![CDATA[Title goes here: <a href="#">Custom link</a>]]></title>n
+		<description><![CDATA[In elit nulla, molestie vel, interdum vel, maurismetus.]]></description>
+	</asset>
+		<asset thumbnail="simple-gallery/img/thumbnail_07.jpg"  image="simple-gallery/img/image_07.jpg">
+		<title><![CDATA[Title goes here]]></title>
+		<description><![CDATA[In elit nulla, molestie vel, ornare sit amet, interdum vel, mauris. Etiam dignissim imperdiet metus.]]></description>
+	</asset>
+</gallery>

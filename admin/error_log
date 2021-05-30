@@ -1,0 +1,2 @@
+[03-Aug-2020 23:45:08 UTC] PHP Warning:  Illegal string offset 'file' in /home/honest25/public_html/admin/lib/Cake/Utility/Debugger.php on line 649
+[03-Aug-2020 23:45:08 UTC] PHP Warning:  Illegal string offset 'line' in /home/honest25/public_html/admin/lib/Cake/Utility/Debugger.php on line 649

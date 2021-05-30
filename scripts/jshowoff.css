@@ -1,0 +1,106 @@
+/*
+
+Title:		jShowOff: a jQuery Content Rotator Plugin
+Author:		Erik Kallevig
+Version:	0.1.2
+Website:	http://ekallevig.com/jshowoff
+License: 	Dual licensed under the MIT and GPL licenses.
+
+*/
+
+
+
+
+/*-- jShowOff module styles --*/
+
+#features, #slidingFeatures, #labelFeatures, #basicFeatures, #thumbFeatures {
+	position: relative;
+	overflow: hidden;
+	width: 729px;
+	-webkit-border-top-left-radius: 6px;
+	-webkit-border-top-right-radius: 6px;
+	-moz-border-radius-topleft: 6px;
+	-moz-border-radius-topright: 6px;
+	}
+.jshowoff {
+	width: 729px;
+	margin: 10px 0;
+	}
+.jshowoff div {
+	text-align:left;	
+	width: 729px;
+	}
+.jshowoff div, .jshowoff img, .jshowoff {
+	-webkit-border-top-left-radius: 6px;
+	-webkit-border-top-right-radius: 6px;
+	}
+#basicFeatures, .jshowoff.basicFeatures, .jshowoff.basicFeatures img, .jshowoff.basicFeatures div {
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	}
+.jshowoff div p, .jshowoff div h2 {
+	_background-color: #efefef;
+	}
+.jshowoff h2, .jshowoff p {
+	font-size: 18px;
+	padding: 15px 20px 0px;
+	margin: 0;
+	margin-top:10px;
+	}
+.jshowoff p {
+	font-size: 13px;
+	line-height: 15px;
+	}
+.jshowoff p.jshowoff-slidelinks {
+	position: absolute;
+	bottom: 5px;
+	right: 5px;
+	padding: 0;
+	margin-right:305px;
+	}
+.jshowoff-controls a {
+	display: block;
+	width:18px;
+	height:18px;
+	float: left;
+	padding-left:5px;
+	padding-top:0px;
+	line-height:6px;
+	
+	background-color:transparent;
+	}
+.jshowoff-slidelinks a{
+	float: left;
+	background-repeat:no-repeat;
+	font-size: 11px;
+	width:18px;
+	height:18px;
+	padding-top:5px;
+	padding-right:5px;
+	line-height:6px;
+	background-image: url(/cssimages/sl_nobg.png);
+	text-decoration:none;
+	color:grey;
+}
+.jshowoff-slidelinks a:hover, .jshowoff-controls a:hover {
+	color: #fff;
+	}
+.jshowoff-slidelinks a.jshowoff-active, .jshowoff-slidelinks a.jshowoff-active:hover {
+	background-image: url(/cssimages/select_sl.png);
+	color: #000;
+	}
+p.jshowoff-controls {
+	overflow: auto;
+	height: 1%;
+	padding: 0 0 5px 5px;
+	padding-left:275px;
+	}
+.jshowoff-controls a {
+	padding-right:120px;
+	padding-bottom:5px;
+	}
+
+.jshowoff-pausetext {
+	color: #fff;
+	}
+

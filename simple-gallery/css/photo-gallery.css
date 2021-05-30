@@ -1,0 +1,226 @@
+@charset "UTF-8";
+
+/******************************************************
+*	 			 Buttons: Global								
+******************************************************/
+.cursor-hand{
+	cursor:hand;
+	cursor:pointer;
+}
+
+.cursor-default{
+	cursor:default;
+}
+
+/******************************************************
+*	 			 Gallery: Wrapper							
+******************************************************/
+
+.photo-gallery{
+	width:640px; 
+	height:424px;
+	position:relative;
+	background-color:#000000;
+	color:#FFFFFF;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+/******************************************************
+*	 			 Gallery: Stage/Image						
+******************************************************/
+
+#photo-gallery-stage{
+	width:inherit;
+	height:347px;
+	position:relative;
+	overflow:hidden;
+}
+
+
+#photo-gallery-img img{
+	position:absolute;
+}
+
+/******************************************************
+*	 			 Gallery: Desccription						
+******************************************************/
+
+#photo-gallery-description{
+	width:250px;
+	height:30px;
+	background-color:black;
+	position:absolute;
+	right:0px;
+	bottom:0px;
+	z-index:2;
+	overflow:hidden;
+	
+	 filter: alpha(opacity=70);
+	-moz-opacity:0.7;
+	opacity: 0.7;
+	-khtml-opacity: 0.7;
+}
+
+#photo-gallery-description-txt{
+	font-size:12px;
+	font-weight:600;
+	padding:10px;
+}
+
+#photo-gallery-description-btn{
+	width:100px;
+	float:left;
+	font-size:12px;
+	padding-top:17px;
+	padding-left:15px;
+	background-image:url(../img/arrow.png);
+	background-repeat:no-repeat;
+	background-position: 0px 20px;
+}
+
+
+/******************************************************
+*	 			 Gallery: Thumbnail					
+******************************************************/
+
+#thumbnail-container{
+	display:none;
+	border:2px solid #333333;
+	width:61px;
+	height:61px;
+	background-color:#333333;
+	position:absolute;
+	top:328px;
+	z-index:3;
+	overflow:hidden;
+}
+
+
+#photo-gallery-header{
+	width:inherit;
+	height:45px;
+	border-bottom:1px solid #333333;
+}	
+
+/******************************************************
+*	 			 Gallery: Title				
+******************************************************/
+
+#photo-gallery-title a:link{
+	text-decoration: none;
+	color:#0099FF;
+}
+
+#photo-gallery-title a:hover{
+	text-decoration: underline;
+	color:#0099FF;
+}
+
+#photo-gallery-title a:visited{
+	text-decoration: none;
+	color:#0099FF;
+}
+
+#photo-gallery-title{
+	height:22px;
+  width:490px;
+  float:left;
+  overflow:hidden;	
+  padding-left:20px;
+  padding-top:12px;
+  font-size:18px;
+}
+
+/******************************************************
+*	 			 Gallery: Navigation				
+******************************************************/
+
+#photo-gallery-nav{
+	position:relative;
+	width:inherit;
+	height:31px;
+}
+
+#item-next-skip{
+	float:right;
+	background-image:url(../img/button.png);
+	background-repeat:no-repeat;
+	background-position: -88px 0px;
+}
+
+#item-next{
+
+	float:right;
+	background-image:url(../img/button.png);
+	background-repeat:no-repeat;
+    background-position: -44px 0px;
+}
+
+
+
+#item-prev-skip{
+	float:left;
+	background-image:url(../img/button.png);
+	background-repeat:no-repeat;
+	background-position: -133px 0px;
+}
+
+#item-prev{
+	float:left;
+	background-image:url(../img/button.png);
+	background-repeat:no-repeat;
+}
+
+.item-prev-next{
+	width:42px;
+	height:31px;
+}
+
+.item-prev-next-skip{
+	width:42px;
+	height:31px;
+	background-color:#cccccc;
+}
+
+
+#item-container-mask{
+	position:absolute;
+	height:inherit;
+	width:462px;
+	overflow:hidden;
+	float:left;
+}
+
+
+#item-container{
+	position:relative;
+}
+
+#item-container > div{
+	margin-right:0px;
+	line-height:31px;
+	float:left;
+	
+}
+.item-active{
+	width:42px;
+	height:30px;
+	display:block;
+	background-color:#000000;
+	outline:1px solid #333333;
+	font-weight:bold;
+	text-align:center;
+}
+
+.item-not-active{
+	width:42px;
+	height:30px;
+	font-weight:bold;
+	text-align:center;
+}
+
+.item-over{
+	background-color:#3366cc;
+	outline:#333333 solid 1px;
+}
+

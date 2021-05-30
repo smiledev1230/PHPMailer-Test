@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+<head>
+<title>File upload</title>
+<script type="text/javascript" src="../../tiny_mce_popup.js"></script>
+<script type="text/javascript" src="fileuploader.js"></script>
+<script type="text/javascript"><!--
+document.write('<base href="' + tinyMCEPopup.getWindowArg("base") + '">');
+document.title = tinyMCEPopup.getWindowArg("title");
+// -->
+</script>
+</head>
+<body id="content">
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="min-height:100%">
+<tr>
+<td style="text-align:center; height:150px; min-height:150px">
+
+<form enctype="multipart/form-data" method="post" style="padding:10px;" id="form-upload">
+	<b style="font-size:14px;">Choose file or files</b><br/><br/>
+    <input type="file" class="input" name="upload[]" id="fileuploader" multiple style="font-size:14px;" />
+    &nbsp;
+    <input type="button" value="Upload" onclick="uploadFile(); return false" style="font-size:14px;" />
+</form>
+
+<div id="fileuploaderInfo">&nbsp;</div>
+
+<br />
+</td>
+</tr>
+<tr>
+<td style="height:60px">
+<div class="mceActionPanel">
+	<input type="button" id="cancel" name="cancel" value="{#cancel}" onclick="tinyMCEPopup.close();" />
+	<input type="submit" id="insert" name="insert" value="{#insert}" onclick="insertUploadedContent();" />
+</div>
+</td>
+</tr>
+</table>
+
+
+
+<script language="javascript">
+
+function uploadFile() {
+if (document.getElementById('fileuploader').value == '') {
+    alert('Choose file for upload!');
+	return false;
+}
+
+var mode = tinyMCEPopup.getWindowArg("mode");
+
+
+
+
+var params = 'type=Images';
+if (mode == 'preview')
+ 	params += '&makeThumb=true';
+if (mode == 'resize')
+	params += '&resize=true';
+
+
+FileUploader.upload({
+	url: tinyMCEPopup.getWindowArg('plugin_url') + '/../doksoft_uploader/uploader.php?' + params,
+	type: 'POST',
+	fileElementId: 'fileuploader',
+	timeout: 0,
+	secureuri: false,
+    
+        // Здесь получаем данные напрямую из fileuploader.php
+	callback: function(data) {
+    	if (data.error == '' || data.error == undefined) {
+    		uploadedHtml = data.html;
+    		document.getElementById('fileuploaderInfo').innerHTML = '<b>Files uploaded, use `Insert` button to continue</b>';
+    		document.getElementById("form-upload").style.visibility='hidden'; 
+        } else {
+    		document.getElementById('fileuploaderInfo').innerHTML = '<b>Files uploading error: '+data.error+'</b>';
+        }
+    },
+    
+})
+}
+
+uploadedHtml = '';
+function insertUploadedContent() {
+    if (uploadedHtml != '') {
+    	tinyMCEPopup.execCommand('mceInsertContent', false, uploadedHtml);
+    	tinyMCEPopup.close();
+    } else {
+    	alert('Upload files first!');
+    }
+    
+}
+
+</script>
+
+</body>
+</html>

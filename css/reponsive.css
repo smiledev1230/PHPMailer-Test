@@ -1,0 +1,16 @@
+.bx-wrapper .bx-viewport {
+	border:none!important;
+}
+a#bbblink.sehzbam, a#bbblink.rbhzbam, a#bbblink.sehzbum, a#bbblink.rbhzbum {
+    margin:0 auto!important;
+}
+ul.dropdown li a.no-padding {
+	padding:0;
+}
+ul.dropdown ul {
+	width:180px;
+}
+ul.dropdown li.product ul {
+	width:auto;
+}
+.consultsectionmobile{display:none}

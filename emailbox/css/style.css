@@ -1,0 +1,48 @@
+#inline { display: none; width: 600px; }
+
+/* --- The Form --- */
+#contact {  }
+
+#contact fieldset {
+    border: 1px solid #EEEEEE;
+    padding: 20px;
+	border-radius: 3px;
+}
+
+#contact legend {
+    border: 1px solid #EEEEEE;
+    color: #617797;
+    margin-bottom: 0 !important;
+    padding: 7px 10px;
+	font-weight: bold;
+	border-radius: 3px;
+}
+
+#contact label {
+    display: inline-block;
+    float: left;
+    font-size: 11px;
+    height: 26px;
+    line-height: 26px;
+    width: 155px;
+}
+
+#contact input, #contact textarea, #contact select {
+    background: none repeat scroll 0 0 #F5F5F5;
+    border: 1px solid #CCCCCC;
+    color: #666666;
+    font: 12px;
+    margin: 5px 0;
+    padding: 5px;
+    width: 360px;
+	border-radius: 3px;
+}
+
+#contact .button { border-radius: 3px; margin: 5px 20px 10px 155px; }
+
+#contact input:focus, #contact textarea:focus { border: 1px solid #eee; color: #444; background: #fff; }
+
+#contact .error { border: 1px solid #973d3d; background: #f0bebe; color: #a35959; }
+#contact .error:focus { border: 1px solid #eee; color: #a35959; }
+
+legend{font-size:12px}
