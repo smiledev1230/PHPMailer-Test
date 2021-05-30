@@ -30,7 +30,7 @@
 					-Setup &amp; configure components/devices (such as blu-ray,<br>
 					cable/satellite box, game console, wi-fi connection, etc.)<br>
 					-Customer tutorial &amp; education<br><br>
-					<font size=2><strong>Gift Card Price: <strike>$249</strike> Now Only $199!</strong><br></font><br>
+					<font size=2><strong>Gift Card Price:ï¿½<strike>$249</strike>ï¿½Now Only $199!</strong><br></font><br>
 					<strong>OPTIONS</strong><br><br>
 					Upgrade to Basic In-Wall Wire Concealment w/ TV Electrical<br>
 					Outlet*<br>
@@ -73,10 +73,10 @@
 					<strong><font size=2>Gift Card Price: $399</font></strong> 7.1 System<br>
 					<strong><font size=2>Gift Card Price: $199</font></strong> 3.1 System or Sound Bar <br>
 					<strong>OPTIONS</strong><br><br>Upgrade to a 5.1 System Bundle, including all the equipment <br>
-					(speakers, subwoofer and A/V receiver) <a href="http://honestinstall.com/contact.php">Details</a><br>
+					(speakers, subwoofer and A/V receiver) <a href="https://honestinstall.com/contact.php">Details</a><br>
 					<strong>Add: $995</strong><br><br>
 					Upgrade to a 7.1 System Bundle, including all the equipment <br>
-					(speakers, subwoofer and Dual Zone/7.1 A/V receiver) <a href="http://honestinstall.com/contact.php">Details</a><br>
+					(speakers, subwoofer and Dual Zone/7.1 A/V receiver) <a href="https://honestinstall.com/contact.php">Details</a><br>
 					<strong>Add: $1195</strong>
 				</div>
 				<div class="clear"></div>

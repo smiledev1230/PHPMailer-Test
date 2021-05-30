@@ -105,8 +105,8 @@
 			<div align="center;width:730px;display:block">
 				<img class="ninetyscreen" src="/images/adcubes.jpg" usemap="#Map" />
 				<map name="Map">
-				  <area shape="rect" coords="6,15,244,143" href="http://honestinstall.com/pricing-and-services.php#tvinstall">
-				  <area shape="rect" coords="489,13,725,142" href="http://honestinstall.com/product-outcast.php">
+				  <area shape="rect" coords="6,15,244,143" href="https://honestinstall.com/pricing-and-services.php#tvinstall">
+				  <area shape="rect" coords="489,13,725,142" href="https://honestinstall.com/product-outcast.php">
 				</map>
 			</div>
 			<br />

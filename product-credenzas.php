@@ -144,24 +144,24 @@ document.forms["serviceform"].reset();
       <DIV class=ad-thumbs>
       <UL class=ad-thumb-list>
         <LI><A 
-        href="http://honestinstall.com/images/product-image-credenzas.png"><IMG 
+        href="https://honestinstall.com/images/product-image-credenzas.png"><IMG 
         class=image0 
-        src="http://honestinstall.com/images/product-image-credenzas (Custom).png"> 
+        src="https://honestinstall.com/images/product-image-credenzas (Custom).png"> 
         </A>
         <LI><A 
-        href="http://honestinstall.com/images/product-image-TR-1.png"><IMG 
+        href="https://honestinstall.com/images/product-image-TR-1.png"><IMG 
         class=image0 
-        src="http://honestinstall.com/images/product-image-TR-1 (Custom).png"> 
+        src="https://honestinstall.com/images/product-image-TR-1 (Custom).png"> 
         </A>
         <LI><A 
-        href="http://honestinstall.com/images/product-image-TR-2.png"><IMG 
+        href="https://honestinstall.com/images/product-image-TR-2.png"><IMG 
         class=image0 
-        src="http://honestinstall.com/images/product-image-TR-2 (Custom).png"> 
+        src="https://honestinstall.com/images/product-image-TR-2 (Custom).png"> 
         </A>
         <LI><A 
-        href="http://honestinstall.com/images/product-image-TR-3.png"><IMG 
+        href="https://honestinstall.com/images/product-image-TR-3.png"><IMG 
         class=image0 
-        src="http://honestinstall.com/images/product-image-TR-3 (Custom).png"> 
+        src="https://honestinstall.com/images/product-image-TR-3 (Custom).png"> 
         </A></LI></UL></DIV></DIV></DIV><BR>
       <DIV class=proddetail>
       <TABLE border=0 cellPadding=0>
@@ -231,7 +231,7 @@ document.forms["serviceform"].reset();
                 <TD style="PADDING-TOP: 30px"><INPUT style="WIDTH: 240px" 
                   name=email></TD></TR></TBODY></TABLE></TD>
           <TD vAlign=top><BR><BR><TEXTAREA class=txtheight onClick="document.serviceform.Comments.value='';" rows=15 cols=36 name=Comments>Comments</TEXTAREA><small>*Honest Install will never sell or share your information.</small><BR><BR><INPUT 
-            value=http://honestinstall.com/thanks.php type=hidden name=redirect> 
+            value=https://honestinstall.com/thanks.php type=hidden name=redirect> 
             <INPUT value=phone,realname,email type=hidden name=required> <INPUT 
             value=service type=hidden name=recipient> <INPUT 
             value="Credenzas Page Inquiry" type=hidden name=subject> <INPUT 

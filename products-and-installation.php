@@ -17,14 +17,14 @@
 				<img src="images/tv.jpg" /><br>
 				<span class="futuraheader">TV & Video</span><br>
 				<span class="futuratxt">
-					<a href="http://honestinstall.com/product-internettv.php">Apple</a><br>
+					<a href="https://honestinstall.com/product-internettv.php">Apple</a><br>
 					<a href="http://www.bose.com/controller?url=/shop_online/home_theater/hdtvs_with_built_in_home_theater/videowave_ii/index.jsp" target="_blank">Bose</a><br>
-					<a href="http://honestinstall.com/product-elitetv.php">Elite</a><br>
+					<a href="https://honestinstall.com/product-elitetv.php">Elite</a><br>
 					Panasonic<br>
 					<a href="http://www.samsung.com/us/video/tvs" target="_blank">Samsung</a><br>
 					Sharp<br>
 					Sony<br>
-					<a href="http://honestinstall.com/product-internettv.php">Roku</a><br>
+					<a href="https://honestinstall.com/product-internettv.php">Roku</a><br>
 					Toshiba
 				</span>
 			</div>
@@ -32,7 +32,7 @@
 				<img src="images/screen.jpg" /><br>
 				<span class="futuraheader">Projectors & Screens</span><br>
 				<span class="futuratxt">
-					<a href="http://honestinstall.com/product-epson.php">Epson</a><br>
+					<a href="https://honestinstall.com/product-epson.php">Epson</a><br>
 					JVC<br>
 					Sony<br>
 					Mitsibishi<br>
@@ -70,7 +70,7 @@
 					<a href="http://www.proficientaudio.com/" target="_blank">Proficient</a><br>
 					<a href="http://www.polkaudio.com/" target="_blank">Polk Audio</a><br>
 					<a href="http://www.sunfire.com/productdetail.asp?id=9" target="_blank">Sunfire</a><br>
-					<a href="http://honestinstall.com/product-outcast.php">Soundcast (makers of the Outcast)</a>
+					<a href="https://honestinstall.com/product-outcast.php">Soundcast (makers of the Outcast)</a>
 				</span>
 			</div>
 			<div class="colum-three">
@@ -81,7 +81,7 @@
 					Dynamic Mounting <br>
 					(makers of the Down & Out Bracket line)<br>
 					Zuum<br>
-					<a href="http://honestinstall.com/product-glomount.php">US Brownbear (makers of the GloMount)</a><br>
+					<a href="https://honestinstall.com/product-glomount.php">US Brownbear (makers of the GloMount)</a><br>
 				Chief
 				</span>
 			</div>
@@ -90,7 +90,7 @@
 				<span class="futuraheader">Essentials & Accessories</span><br>
 				<span class="futuratxt">
 					<a href="/nest.php">Nest Learning Thermostat </a><br>
-					<a href="http://honestinstall.com/product-irkit.php">Logitech Harmony - Remotes</a><br>
+					<a href="https://honestinstall.com/product-irkit.php">Logitech Harmony - Remotes</a><br>
 					Panamax - Surge & Power Products<br>
 					Amped Wireless - Wifi Extenders<br>
 					URC - Universal Remote Control<br>
@@ -146,7 +146,7 @@
 				<br>
 			</span>
 		</div>
-		<img class="fullscreen" src="http://honestinstall.com/images/fadeline.jpg" /><br>
+		<img class="fullscreen" src="https://honestinstall.com/images/fadeline.jpg" /><br>
 		<br>
 		<div class="product-text-bottom">
 			Honest Install wishes to thank Dave C. & Catherine J. <br><br>

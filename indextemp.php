@@ -81,7 +81,7 @@ backyard or by the pool</p>
 							
 							<!-- box !-->
 							<div class="box">
-								<a href="http://honestinstall.com/sonos.php"><img src="images/bannerhomepage/multiroomadio.png"></a>
+								<a href="https://honestinstall.com/sonos.php"><img src="images/bannerhomepage/multiroomadio.png"></a>
 								<p><strong>Imagine Concealed Music</strong><br>
 throughout your home or business<br>
 controlled by your phone</p>
@@ -136,7 +136,7 @@ without wires</p>
 							
 							<!-- box !-->
 							<div class="box">
-								<a href="http://honestinstall.com/commercial.php?menu=cw"><img src="images/bannerhomepage/businessestrusthonest.png"></a>
+								<a href="https://honestinstall.com/commercial.php?menu=cw"><img src="images/bannerhomepage/businessestrusthonest.png"></a>
 								<p><strong>Commercial A/V</strong><br>	
 from conference rooms to<br>
 structured wiring - we do it all</p>

@@ -170,7 +170,7 @@ body{font-family:Arial}
             <div class="clear"></div>
 
             <label for="url"><span class="required">*</span>URL:</label>
-            <input name="url" type="text" id=url" class="txt" readonly="readonly" value="<?= 'http://honestinstall.com' . $_GET['p']; ?>"/>
+            <input name="url" type="text" id=url" class="txt" readonly="readonly" value="<?= 'https://honestinstall.com' . $_GET['p']; ?>"/>
             <div class="clear"></div>
 
             <input id="submit" type="submit" name="submit" value="Submit"/>

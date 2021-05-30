@@ -174,7 +174,7 @@ onload="MM_preloadImages('images/Honest-Install-Home-Tab-Active.png','images/Hon
 <br>
  <textarea name="Comments" cols="36" rows="15" onClick="document.serviceform.Comments.value='';" class="txtheight">Comments</textarea><br /><br>
 
-	<input type="hidden" name="redirect" value="http://honestinstall.com/thanks.php" />
+	<input type="hidden" name="redirect" value="https://honestinstall.com/thanks.php" />
 	<input type="hidden" name="required" value="phone,realname,email" />
 	<input type="hidden" name="recipient" value="service" /> 
 	<input type="hidden" name="subject" value="Schedule a service" />
@@ -202,7 +202,7 @@ onload="MM_preloadImages('images/Honest-Install-Home-Tab-Active.png','images/Hon
       href="mailto:info@HonestInstall.com"><STRONG>info@HonestInstall.com</STRONG></A></P>
       <P class=bottomText align=center><A href="contact.php"><STRONG>Schedule 
       Service/Inquiry Form</STRONG></A></P>
-      <P align=center><STRONG><FONT size=1><FONT color=#000000>© Copyright 
+      <P align=center><STRONG><FONT size=1><FONT color=#000000>ï¿½ Copyright 
       2007-2012, Honest Install. All Rights 
       Reserved.</FONT></FONT></STRONG></P></FONT></FONT></FONT></FONT>
       

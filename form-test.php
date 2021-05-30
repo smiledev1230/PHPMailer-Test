@@ -2,8 +2,8 @@
 <script src="js/jquery.validate.js"></script>
 <script language="javascript">
 
-var onImg= "http://honestinstall.com/images/dau.png";
-var offImg= "http://honestinstall.com/images/daul.png";
+var onImg= "https://honestinstall.com/images/dau.png";
+var offImg= "https://honestinstall.com/images/daul.png";
 </script>
 <style>
     .paddtop {

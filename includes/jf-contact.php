@@ -110,7 +110,7 @@ display:none;
         <div id="cid_2" class="form-input-wide">
           <div style="margin-left:0px" class="form-buttons-wrapper">
             <button id="input_2" type="submit" class="form-submit-button form-submit-button-img">
-              <img src="http://honestinstall.com/images/submitcontact.jpg" alt="Submit" />
+              <img src="https://honestinstall.com/images/submitcontact.jpg" alt="Submit" />
             </button>
           </div>
         </div>

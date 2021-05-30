@@ -1,6 +1,6 @@
 
 
-<div id="craftysyntax_1" style="position: fixed;  top: 50%;  left: 0;"><script type="text/javascript" src="http://honestinstall.com/livehelp/livehelp_js.php?eo=0&department=1&amp;serversession=1&amp;pingtimes=15&amp;dynamic=Y"></script></div>
+<div id="craftysyntax_1" style="position: fixed;  top: 50%;  left: 0;"><script type="text/javascript" src="https://honestinstall.com/livehelp/livehelp_js.php?eo=0&department=1&amp;serversession=1&amp;pingtimes=15&amp;dynamic=Y"></script></div>
 
 
 
@@ -41,7 +41,7 @@
 
 <div style="background:url(/images/honest-install-ask-a-tech22.jpg);background-repeat:no-repeat;width:850px;height:240px;margin:0 auto;text-align:left">
 
-<div style="padding-left:494px;padding-top:80px;height:50px;cursor: pointer;" onClick="window.open('http://honestinstall.com/livehelp/livehelp.php?department=1','Honest Install - Live Help!','width=550,height=480');">
+<div style="padding-left:494px;padding-top:80px;height:50px;cursor: pointer;" onClick="window.open('https://honestinstall.com/livehelp/livehelp.php?department=1','Honest Install - Live Help!','width=550,height=480');">
 <font size="+1" color="#eab80b">Ask Howie</font><br />
 
 <font size="2">

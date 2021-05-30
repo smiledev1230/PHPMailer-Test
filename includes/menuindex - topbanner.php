@@ -4,7 +4,7 @@
 	
     <!-- header !-->
     <div class="header">
-        <div onclick="window.open('http://honestinstall.com/livehelp/livehelp.php?department=1','new_window','width=550,height=480');" style="position:absolute;display:block; float:right;width:100px;height:30px; cursor:pointer;margin-left:700px;padding-top:50px;"><img src="/images/blank.gif" width=50px height=50px/> </div>
+        <div onclick="window.open('https://honestinstall.com/livehelp/livehelp.php?department=1','new_window','width=550,height=480');" style="position:absolute;display:block; float:right;width:100px;height:30px; cursor:pointer;margin-left:700px;padding-top:50px;"><img src="/images/blank.gif" width=50px height=50px/> </div>
     <?php  // display random image
 		// Change this to the total number of images in the folder 
 		$total = "2"; 

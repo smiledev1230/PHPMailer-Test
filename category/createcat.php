@@ -164,8 +164,8 @@ function deleteCat(id){
         
         <h1>Create Category</h1>
 		<ul class="menu-bend">
-			<li><a href="http://honestinstall.com/category/listcategory.php">List categories</a></li>
-			<li><a href="http://honestinstall.com/category/listimg.php">List images</a></li>
+			<li><a href="https://honestinstall.com/category/listcategory.php">List categories</a></li>
+			<li><a href="https://honestinstall.com/category/listimg.php">List images</a></li>
 		</ul>
         <div class="updateclient">
 			<form action="" method="post" enctype="multipart/form-data">
@@ -184,7 +184,7 @@ function deleteCat(id){
 		$cat_name = $_POST['cat_name'];
 		//print_r($_FILES);
 		$p->addCat($cat_name);
-		echo '<h3 style="text-align:center" class="error">Created Complete, Move to category list <a href="http://honestinstall.com/category/listcategory.php">Click Here</a></h3>';
+		echo '<h3 style="text-align:center" class="error">Created Complete, Move to category list <a href="https://honestinstall.com/category/listcategory.php">Click Here</a></h3>';
 		}else{
 			echo '<h3 class="error">Please Input Category Name !</h3>';
 		}
@@ -192,7 +192,7 @@ function deleteCat(id){
 ?>
 <?php else: ?>
 <div style="margin:0 auto;width:850px;">
-<img src="http://honestinstall.com/images/random/2.png" />
+<img src="https://honestinstall.com/images/random/2.png" />
 
 <h2>Please Login</h2>
         <form name="login" action="" method="post">

@@ -225,7 +225,7 @@ Hourly rate of $85/hr applies to residential work only and covers one to two tec
                 <TD style="PADDING-TOP: 30px"><INPUT style="WIDTH: 240px" 
                   name=email></TD></TR></TBODY></TABLE></TD>
           <TD vAlign=top><BR><BR><TEXTAREA class=txtheight onClick="document.serviceform.Comments.value='';" rows=15 cols=36 name=Comments>Comments</TEXTAREA><BR><BR><INPUT 
-            value=http://honestinstall.com/thanks.php type=hidden name=redirect> 
+            value=https://honestinstall.com/thanks.php type=hidden name=redirect> 
             <INPUT value=phone,realname,email type=hidden name=required> <INPUT 
             value=service type=hidden name=recipient> <INPUT 
             value="Fireplace FAQs Inquiry" type=hidden name=subject> <INPUT value=Submit 

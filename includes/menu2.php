@@ -35,7 +35,7 @@ $total_review= "360"; ?>
 	
 
     <!-- header !-->
-<!--<div style="position:absolute;margin-left:700px;width:100px;border: 0px solid #CCC;height:100px;cursor:pointer" align="center"  onClick="window.open('http://honestinstall.com/livehelp/livehelp.php?department=1','Honest Install - Live Help!','width=550,height=480');"></div>-->
+<!--<div style="position:absolute;margin-left:700px;width:100px;border: 0px solid #CCC;height:100px;cursor:pointer" align="center"  onClick="window.open('https://honestinstall.com/livehelp/livehelp.php?department=1','Honest Install - Live Help!','width=550,height=480');"></div>-->
     <div class="header">
 
     <?php  // display random image
@@ -212,9 +212,9 @@ CALL FOR <br />DETAILS</small> </a></li>
 
 
 
-<!--<div id="rotator"><span class="schedule"><a href="http://www.honestinstall.com/contact.php">Schedule Service/Request a Quote</a></span><div onclick="window.open('http://www.customerlobby.com/reviews/403/honest-install/' ,'ReviewPage', 'statusbar=no,menubar=no,toolbar=no,scrollbars=yes,resizable=yes,width=540, height=575,left=570,top=200,screenX=570,screenY=200'); return false;" class="pricing"></div><div onclick="location.href='http://honestinstall.com/mediaroom.php?utm_source=web&utm_medium=direct&utm_campaign=mediabanner';" class="gideabox"></div><div onclick="location.href='/product-epson.php';" class="gideabox"></div><div onclick="location.href='http://honestinstall.com/product-onsiteconsultation.php';" class="prepaidbox"></div></div>-->
+<!--<div id="rotator"><span class="schedule"><a href="http://www.honestinstall.com/contact.php">Schedule Service/Request a Quote</a></span><div onclick="window.open('http://www.customerlobby.com/reviews/403/honest-install/' ,'ReviewPage', 'statusbar=no,menubar=no,toolbar=no,scrollbars=yes,resizable=yes,width=540, height=575,left=570,top=200,screenX=570,screenY=200'); return false;" class="pricing"></div><div onclick="location.href='https://honestinstall.com/mediaroom.php?utm_source=web&utm_medium=direct&utm_campaign=mediabanner';" class="gideabox"></div><div onclick="location.href='/product-epson.php';" class="gideabox"></div><div onclick="location.href='https://honestinstall.com/product-onsiteconsultation.php';" class="prepaidbox"></div></div>-->
 
-<div id="rotator"><div onclick="window.open('http://www.customerlobby.com/reviews/403/honest-install/' ,'ReviewPage', 'statusbar=no,menubar=no,toolbar=no,scrollbars=yes,resizable=yes,width=540, height=575,left=570,top=200,screenX=570,screenY=200'); return false;" class="pricing"></div><div onclick="location.href='http://honestinstall.com/customer-profile-tyron-smith.php';" class="gideabox"></div><div onclick="location.href='http://www.honestinstall.com//contact.php';" class="prepaidbox"></div></div>
+<div id="rotator"><div onclick="window.open('http://www.customerlobby.com/reviews/403/honest-install/' ,'ReviewPage', 'statusbar=no,menubar=no,toolbar=no,scrollbars=yes,resizable=yes,width=540, height=575,left=570,top=200,screenX=570,screenY=200'); return false;" class="pricing"></div><div onclick="location.href='https://honestinstall.com/customer-profile-tyron-smith.php';" class="gideabox"></div><div onclick="location.href='http://www.honestinstall.com//contact.php';" class="prepaidbox"></div></div>
 
 <TABLE border=0 cellSpacing=0 cellPadding=0 width=850 align=center   >
 

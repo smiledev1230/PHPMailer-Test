@@ -26,9 +26,9 @@
 
    <!-- First Slide --------------------------------------------->
             <div style="background-color:#fff">
-               <a href="http://honestinstall.com/blog/index.php/honest-install-of-dallas-tx-makes-offer-to-acquire-nestdropcam-fails-epically/"><img src="images/Honest-Feature-NEST3.jpg" /></a><br><br><strong>HONEST MAKES OFFER TO ACQUIRE NEST LABS: SEE US FAIL - BLOG POST (16 Photos)</strong><br />
+               <a href="https://honestinstall.com/blog/index.php/honest-install-of-dallas-tx-makes-offer-to-acquire-nestdropcam-fails-epically/"><img src="images/Honest-Feature-NEST3.jpg" /></a><br><br><strong>HONEST MAKES OFFER TO ACQUIRE NEST LABS: SEE US FAIL - BLOG POST (16 Photos)</strong><br />
 <br />
-At CEDIA, an industry tradeshow, Honest Install offers to acquire Nest/Dropcam, the 3.2 billion dollar home automation company of Palo Alto, CA. <a href="http://honestinstall.com/blog/index.php/honest-install-of-dallas-tx-makes-offer-to-acquire-nestdropcam-fails-epically/">View Blog Post</a>
+At CEDIA, an industry tradeshow, Honest Install offers to acquire Nest/Dropcam, the 3.2 billion dollar home automation company of Palo Alto, CA. <a href="https://honestinstall.com/blog/index.php/honest-install-of-dallas-tx-makes-offer-to-acquire-nestdropcam-fails-epically/">View Blog Post</a>
             </div>
 
 <div style="background-color:#fff"><a href="http://www.honestinstall.com/commercial.php?menu=cw"><img src="images/Honest-Feature-Commercial-AV.jpg" /></a><br>

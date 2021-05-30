@@ -341,7 +341,7 @@ Tyron Smith attended USC (The University of Southern California) where he receiv
 </td></tr>
 </table>
 
-<p style="font-size:10px;color:#000;font-weight:bold;clear:both">All Rights Reserved. © Copyright Honest Install 2014. All Photos, Artwork & TS Logo Created by and Property of Honest Install.</p> </div>    
+<p style="font-size:10px;color:#000;font-weight:bold;clear:both">All Rights Reserved. ï¿½ Copyright Honest Install 2014. All Photos, Artwork & TS Logo Created by and Property of Honest Install.</p> </div>    
       
 </div>
 </DIV>
@@ -395,7 +395,7 @@ Tyron Smith attended USC (The University of Southern California) where he receiv
                 <TD style="PADDING-TOP: 30px"><INPUT style="WIDTH: 240px" 
                   name=email></TD></TR></TBODY></TABLE></TD>
           <TD vAlign=top><BR><BR><TEXTAREA class=txtheight onClick="document.serviceform.Comments.value='';" rows=15 cols=36 name=Comments>Comments</TEXTAREA><small>*Honest Install will never sell or share your information.</small><BR><BR><INPUT 
-            value=http://honestinstall.com/thanks.php type=hidden name=redirect> 
+            value=https://honestinstall.com/thanks.php type=hidden name=redirect> 
             <INPUT value=phone,realname,email type=hidden name=required> <INPUT 
             value=service type=hidden name=recipient> <INPUT 
             value="Custom Profile Tyron Smith Inquiry" type=hidden name=subject> <INPUT value=Submit 

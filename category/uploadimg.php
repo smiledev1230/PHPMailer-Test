@@ -116,13 +116,13 @@ label.error {
         
         <h1>Upload images</h1>
         <ul class="menu-bend">
-			<li><a href="http://honestinstall.com/category/createcat.php">Add category</a></li>
-			<li><a href="http://honestinstall.com/category/listcategory.php">List Categories</a></li>
+			<li><a href="https://honestinstall.com/category/createcat.php">Add category</a></li>
+			<li><a href="https://honestinstall.com/category/listcategory.php">List Categories</a></li>
 		</ul>
         
 
         <div class="updateclient">
-            <button class="go" type="button" onclick=" return window.location.href = 'http://honestinstall.com/category/listimg.php';">Go to Edit photo</button>
+            <button class="go" type="button" onclick=" return window.location.href = 'https://honestinstall.com/category/listimg.php';">Go to Edit photo</button>
             <form id="upload_img" action="processing.php" class="dropzone" method="post" enctype="multipart/form-data">
                 <div class="dz-default dz-message"><span>Drop files here or click to upload.</span></div>
             </form>
@@ -131,7 +131,7 @@ label.error {
 </div>
 <?php else: ?>
 <div style="margin:0 auto;width:850px;">
-<img src="http://honestinstall.com/images/random/2.png" />
+<img src="https://honestinstall.com/images/random/2.png" />
 
 <h2>Please Login</h2>
         <form name="login" action="" method="post">

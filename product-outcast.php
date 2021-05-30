@@ -14,53 +14,53 @@
 					<div class="ad-thumbs">
 						<ul class="ad-thumb-list">
 							<li>
-								<a href="http://honestinstall.com/images/product-image-outcast.png">
-									<img class="image0" src="http://honestinstall.com/images/product-image-outcast (Custom).png">
+								<a href="https://honestinstall.com/images/product-image-outcast.png">
+									<img class="image0" src="https://honestinstall.com/images/product-image-outcast (Custom).png">
 								</a>
 							</li>
 							<li>
-								<a href="http://honestinstall.com/images/product-image-outcastthumb5.png">
-									<img class="image0" src="http://honestinstall.com/images/product-image-outcastthumb5 (Custom).png">
+								<a href="https://honestinstall.com/images/product-image-outcastthumb5.png">
+									<img class="image0" src="https://honestinstall.com/images/product-image-outcastthumb5 (Custom).png">
 								</a>
 							</li>
 							<li>
-								<a href="http://honestinstall.com/images/product-image-outcastthumb6.png">
-									<img class="image0" src="http://honestinstall.com/images/product-image-outcastthumb6 (Custom).png">
+								<a href="https://honestinstall.com/images/product-image-outcastthumb6.png">
+									<img class="image0" src="https://honestinstall.com/images/product-image-outcastthumb6 (Custom).png">
 								</a>
 							</li>
 							<li>
-								<a href="http://honestinstall.com/images/product-image-outcastthumb3.png">
-									<img class="image0" src="http://honestinstall.com/images/product-image-outcastthumb3 (Custom).png">
+								<a href="https://honestinstall.com/images/product-image-outcastthumb3.png">
+									<img class="image0" src="https://honestinstall.com/images/product-image-outcastthumb3 (Custom).png">
 								</a>
 							</li>
 							<li>
-								<a href="http://honestinstall.com/images/product-image-outcastthumb4.png">
-									<img class="image0" src="http://honestinstall.com/images/product-image-outcastthumb4 (Custom).png">
+								<a href="https://honestinstall.com/images/product-image-outcastthumb4.png">
+									<img class="image0" src="https://honestinstall.com/images/product-image-outcastthumb4 (Custom).png">
 								</a>
 							</li>
 							<li>
-								<a href="http://honestinstall.com/images/product-image-outcastthumb2.png">
-									<img class="image0" src="http://honestinstall.com/images/product-image-outcastthumb2 (Custom).png">
+								<a href="https://honestinstall.com/images/product-image-outcastthumb2.png">
+									<img class="image0" src="https://honestinstall.com/images/product-image-outcastthumb2 (Custom).png">
 								</a>
 							</li>
 							<li>
-								<a href="http://honestinstall.com/images/product-image-outcastthumb8.png">
-									<img class="image0" src="http://honestinstall.com/images/product-image-outcastthumb8 (Custom).png">
+								<a href="https://honestinstall.com/images/product-image-outcastthumb8.png">
+									<img class="image0" src="https://honestinstall.com/images/product-image-outcastthumb8 (Custom).png">
 								</a>
 							</li>
 							<li>
-								<a href="http://honestinstall.com/images/product-image-outcastthumb7.png">
-									<img class="image0" src="http://honestinstall.com/images/product-image-outcastthumb7 (Custom).png">
+								<a href="https://honestinstall.com/images/product-image-outcastthumb7.png">
+									<img class="image0" src="https://honestinstall.com/images/product-image-outcastthumb7 (Custom).png">
 								</a>
 							</li>
 							<li>
-								<a href="http://honestinstall.com/images/product-image-outcastthumb9.png">
-									<img class="image0" src="http://honestinstall.com/images/product-image-outcastthumb9 (Custom).png">
+								<a href="https://honestinstall.com/images/product-image-outcastthumb9.png">
+									<img class="image0" src="https://honestinstall.com/images/product-image-outcastthumb9 (Custom).png">
 								</a>
 							</li>
 							<li>
-								<a href="http://honestinstall.com/images/product-image-outcastthumb1.png">
-									<img class="image0" src="http://honestinstall.com/images/product-image-outcastthumb1 (Custom).png">
+								<a href="https://honestinstall.com/images/product-image-outcastthumb1.png">
+									<img class="image0" src="https://honestinstall.com/images/product-image-outcastthumb1 (Custom).png">
 								</a>
 							</li>
 						</ul>
@@ -86,7 +86,7 @@
 						<H4>Details</H4>
 						<div class="fadedetail">
 							<div class="fadecontent">
-								<strong>The Ultimate Party Animal: Wireless &amp; Weatherproof, what more could you ask for…</strong><br><br>
+								<strong>The Ultimate Party Animal: Wireless &amp; Weatherproof, what more could you ask forï¿½</strong><br><br>
 								This weather resistant, wireless speaker with built in subwoofer lets you enjoy rich, multi-directional stereo sound anywhere. The system has a broadcast range of up to 350 feet, listen to any MP3 player, iPod, computer, home theater, audio system, or your TV by choosing either the iCast transmitter with built-in&nbsp; iPod dock (pictured above) provided and installed by the experts at Honest Install. The Outcast is available in two flavors the standard Outcast (pictured above) and the baby brother the Outcast Jr. <br><br>
 								<strong>Power Options<br><br>
 								</strong>Each Outcast unit come with three options for power: The ability to plug into any wall standard socket, power with the included rechargeable battery pack (for a truly wire-free experience) or designed for those outdoorsmen and women, a car adapter so you can enjoy rich, clear audio even when camping. Call today for pricing and details: 972-470-3528.<br><br><br>
@@ -99,10 +99,10 @@
 				<div class="right-prouct-details">
 					<h4 class="custreview"><br>What Customers Say</h4>
 					<div class="custreview">
-						"I didn’t know anything like the Outcast existed before Honest came out. They were so knowledgeable, every time I asked a question, they knew it. They won my confidence.<br><br>
-						I knew I’d like the Outcast because they educated us prior to install but I really seem to enjoy it more than I thought I would. It works great with iPhone music and with our CD player. <br><br>
+						"I didnï¿½t know anything like the Outcast existed before Honest came out. They were so knowledgeable, every time I asked a question, they knew it. They won my confidence.<br><br>
+						I knew Iï¿½d like the Outcast because they educated us prior to install but I really seem to enjoy it more than I thought I would. It works great with iPhone music and with our CD player. <br><br>
 						Setup was not more than about an hour. They showed me how to use it, very easy. <br><br>
-						The Honest crew was just fun and friendly. It was all just a very nice experience, all the way around. I think we might be getting an Outcast for each of our boys to use in their apartment!”<br><br>
+						The Honest crew was just fun and friendly. It was all just a very nice experience, all the way around. I think we might be getting an Outcast for each of our boys to use in their apartment!ï¿½<br><br>
 						By Laura H.<br>
 						Coppell, TX<br><br><br><br><br>
 					</div>

@@ -178,7 +178,7 @@ window.onload=function(){
             <P><STRONG>Basic TV Mounting $199 <BR></STRONG><FONT 
             size=2>(Reg.&nbsp;Price <FONT color=#808080><STRIKE><FONT 
             name="MS Sans Serif">$249.00</FONT></STRIKE>)</FONT></FONT></P>
-            <P>-Mounting of any TV up to 60” (with customer provided 
+            <P>-Mounting of any TV up to 60ï¿½ (with customer provided 
             bracket)<BR>-2 FREE HDMI cables (two 6ft or one 12ft)<BR>-Conceal 
             wires, external to wall, in paintable cable conduit<BR>-Setup &amp; 
             configure components/devices<BR>-Customer tutorial &amp; 
@@ -187,7 +187,7 @@ window.onload=function(){
             <BR></STRONG><FONT size=2>(Reg.&nbsp;Price </FONT><FONT size=2><FONT 
             color=#808080><STRIKE><FONT 
             name="MS Sans Serif">$517.00</FONT></STRIKE>)<BR></FONT><BR></FONT>-Mounting 
-            of any TV up to 60” <BR>-2 FREE HDMI cables (two 6ft or one 
+            of any TV up to 60ï¿½ <BR>-2 FREE HDMI cables (two 6ft or one 
             12ft)<BR>-Premium Tilt Bracket<BR>-In-Wall Wire Concealment with 
             Electrical Outlet*<BR>-Setup &amp; configure 
             components/devices<BR>-Customer tutorial &amp; education</P>
@@ -260,7 +260,7 @@ window.onload=function(){
                 <TD style="PADDING-TOP: 30px"><INPUT style="WIDTH: 240px" 
                   name=email></TD></TR></TBODY></TABLE></TD>
           <TD vAlign=top><BR><BR><TEXTAREA class=txtheight onClick="document.serviceform.Comments.value='';" rows=15 cols=36 name=Comments>Comments</TEXTAREA><BR><BR><INPUT 
-            value=http://honestinstall.com/thanks.php type=hidden name=redirect> 
+            value=https://honestinstall.com/thanks.php type=hidden name=redirect> 
             <INPUT value=phone,realname,email type=hidden name=required> <INPUT 
             value=service type=hidden name=recipient> <INPUT 
             value="Super Sunday Specials Inquiry" type=hidden name=subject> 

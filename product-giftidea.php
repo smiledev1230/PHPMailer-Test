@@ -185,7 +185,7 @@ From modern and trendy ones to <br />
 traditional media furniture so you can house <br />
 your components with style.   <br />
   <strong>From $279 + Installation</strong><br>
-<a href="http://honestinstall.com/product-credenzas.php"><span class="greentxt">Details/More Choices</span></a>
+<a href="https://honestinstall.com/product-credenzas.php"><span class="greentxt">Details/More Choices</span></a>
 
 </div>
 
@@ -262,7 +262,7 @@ your components with style.   <br />
   <strong>From $199 Installed</strong><br>
 
 
-<a href="http://honestinstall.com/product-internettv.php"><span  class="greentxt">Details</span></a>
+<a href="https://honestinstall.com/product-internettv.php"><span  class="greentxt">Details</span></a>
 </div>
 
 
@@ -296,7 +296,7 @@ Hulu and many more, all from your sofa.<br>
 <strong>From $239 + Installation</strong><br>
 
 
-<a href="http://honestinstall.com/product-internettv.php"><span  class="greentxt">Details</span></a><br>
+<a href="https://honestinstall.com/product-internettv.php"><span  class="greentxt">Details</span></a><br>
 
 </div>
 </div><div style="margin:0 auto;text-align:center">

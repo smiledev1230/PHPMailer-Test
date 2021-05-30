@@ -594,7 +594,7 @@ window._fbq.push(['track', '6026429354853', {'value':'0.01','currency':'USD'}]);
 
 					<div onclick="window.open('http://www.customerlobby.com/reviews/403/honest-install/' ,'ReviewPage', 'statusbar=no,menubar=no,toolbar=no,scrollbars=yes,resizable=yes,width=540, height=575,left=570,top=200,screenX=570,screenY=200'); return false;" class="pricing"></div>
 
-					<!--<div onclick="location.href='http://honestinstall.com/customer-profile-tyron-smith.php';" class="gideabox"></div>-->
+					<!--<div onclick="location.href='https://honestinstall.com/customer-profile-tyron-smith.php';" class="gideabox"></div>-->
 
 					<div onclick="location.href='http://www.honestinstall.com/contact.php';" class="prepaidbox"></div>
 

@@ -149,7 +149,7 @@ function deleteImage(id,catid){
 </div>
 <?php else: ?>
 <div style="margin:0 auto;width:850px;">
-<img src="http://honestinstall.com/images/random/2.png" />
+<img src="https://honestinstall.com/images/random/2.png" />
 
 <h2>Please Login</h2>
         <form name="login" action="" method="post">

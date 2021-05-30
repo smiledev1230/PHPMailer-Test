@@ -12,23 +12,23 @@
 					<div class="ad-thumbs">
 						<ul class="ad-thumb-list">
 						<li>
-							<a href="http://honestinstall.com/images/product-image-universalremote.png">
-								<img class="image0" src="http://honestinstall.com/images/product-image-universalremote (Custom).png"> 
+							<a href="https://honestinstall.com/images/product-image-universalremote.png">
+								<img class="image0" src="https://honestinstall.com/images/product-image-universalremote (Custom).png"> 
 							</a>
 						</li>
 						<li>
-							<a href="http://honestinstall.com/images/product-image-remotesthumb1.png">
-								<img class="image0" src="http://honestinstall.com/images/product-image-remotesthumb1 (Custom).png"> 
+							<a href="https://honestinstall.com/images/product-image-remotesthumb1.png">
+								<img class="image0" src="https://honestinstall.com/images/product-image-remotesthumb1 (Custom).png"> 
 							</a>
 						</li>
 						<li>
-							<a href="http://honestinstall.com/images/product-image-remotesthumb2.png">
-								<img class="image0" src="http://honestinstall.com/images/product-image-remotesthumb2 (Custom).png"> 
+							<a href="https://honestinstall.com/images/product-image-remotesthumb2.png">
+								<img class="image0" src="https://honestinstall.com/images/product-image-remotesthumb2 (Custom).png"> 
 							</a>
 						</li>
 						<li>
-							<a href="http://honestinstall.com/images/product-image-remotesthum3B.png">
-								<img class="image0" src="http://honestinstall.com/images/product-image-remotesthum3B (Custom).png"> 
+							<a href="https://honestinstall.com/images/product-image-remotesthum3B.png">
+								<img class="image0" src="https://honestinstall.com/images/product-image-remotesthum3B (Custom).png"> 
 							</a>
 						</li>
 						</ul>

@@ -126,7 +126,7 @@ onload="MM_preloadImages('images/Honest-Install-Home-Tab-Active.png','images/Hon
 
 <strong>Describe your project:</strong>&nbsp;&nbsp;&nbsp;&nbsp;<font color="#FFCC00">*</font><br>
 <textarea name="PROJECT" cols="48" rows="4" class="inputpad"></textarea>
-<INPUT value=http://honestinstall.com/thanks.php type=hidden name=redirect> 
+<INPUT value=https://honestinstall.com/thanks.php type=hidden name=redirect> 
 <br>  <INPUT value=phone,realname,email type=hidden name=required> <INPUT 
             value=service type=hidden name=recipient> <INPUT 
             value="Contact Us Form Inquiry" type=hidden name=subject> 
@@ -178,7 +178,7 @@ SCHEDULE SERVICE NOW!<STRONG>&nbsp;
       <P class=bottomText align=center><A href="contact.php"><STRONG>Schedule 
       Service/Inquiry Form</STRONG></A></P>
       <P class=bottomText align=center><STRONG><FONT size=1><FONT 
-      color=#000000>© Copyright 2007-2011, Honest Install. All Rights 
+      color=#000000>ï¿½ Copyright 2007-2011, Honest Install. All Rights 
       Reserved.</FONT></FONT></STRONG></P><FONT color=#808080 size=2 face=Arial>
       <P align=center><STRONG><FONT size=1><FONT 
       color=#000000></STRONG></A><BR><BR></P></FONT></FONT></FONT></FONT></FONT></FONT></SPAN></STRONG></FONT></TD></TR>

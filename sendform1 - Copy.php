@@ -590,7 +590,7 @@ echo "1h";
             
         
 echo "h";
-            echo "<script>window.location='http://honestinstall.com/thanksinquiry.php';</script>";
+            echo "<script>window.location='https://honestinstall.com/thanksinquiry.php';</script>";
         } else {
             echo "The Captcha code must be retyped correctly.";
             exit;

@@ -1,6 +1,6 @@
 <?php include "includes/socialmedia.php"; ?>
 <!--
-<div id="craftysyntax_1" style="position: fixed;  top: 50%;  left: 0;"><script type="text/javascript" nsrc="http://honestinstall.com/livehelp/livehelp_js.php?eo=0&department=1&amp;serversession=1&amp;pingtimes=15&amp;dynamic=Y"></script></div>!-->
+<div id="craftysyntax_1" style="position: fixed;  top: 50%;  left: 0;"><script type="text/javascript" nsrc="https://honestinstall.com/livehelp/livehelp_js.php?eo=0&department=1&amp;serversession=1&amp;pingtimes=15&amp;dynamic=Y"></script></div>!-->
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
     <div style="background:url(/images/honest-install-ask-a-tech22.jpg);background-repeat:no-repeat;width:850px;height:240px;margin:0 auto;text-align:left">
 
-        <div style="padding-left:454px;padding-top:80px;height:50px;cursor: pointer;" onClick="location.href=('http://honestinstall.com/contact.php');">
+        <div style="padding-left:454px;padding-top:80px;height:50px;cursor: pointer;" onClick="location.href=('https://honestinstall.com/contact.php');">
             <font size="+1" color="#eab80b">Give us a Ring</font><br />
 
             <font size="2">
@@ -87,8 +87,8 @@ residents and businesses of DFW - Dallas/Ft. Worth and surrounding.
 
                           
                                                                  <tr><td class=keywords align="left"><a class=keywordLink title="Spotlight Page"  href="http://www.honestinstall.com/spotlight.php"><strong>Spotlight Page</strong></a></td></tr>
-                                                                   <tr><td class=keywords align="left"><a class=keywordLink title="Schedule"  href="http://honestinstall.com/contact.php"><strong>Schedule Service/Inquiry Form</strong></a></td></tr>  <tr><td class=keywords align="left"><a class=keywordLink title="Contact Us"  href="http://honestinstall.com/contact.php"><strong>Contact Us </strong></a></td></tr>
-                                                                     <tr><td class=keywords align="left"><a class=keywordLink title="Contact Us"  href="http://honestinstall.com/blog"><strong>Blog</strong></a></td></tr>
+                                                                   <tr><td class=keywords align="left"><a class=keywordLink title="Schedule"  href="https://honestinstall.com/contact.php"><strong>Schedule Service/Inquiry Form</strong></a></td></tr>  <tr><td class=keywords align="left"><a class=keywordLink title="Contact Us"  href="https://honestinstall.com/contact.php"><strong>Contact Us </strong></a></td></tr>
+                                                                     <tr><td class=keywords align="left"><a class=keywordLink title="Contact Us"  href="https://honestinstall.com/blog"><strong>Blog</strong></a></td></tr>
                                                                  </table>
 </td></tr></table>
                                                                  

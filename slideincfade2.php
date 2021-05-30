@@ -14,32 +14,32 @@
 	<link rel="stylesheet" type="text/css" href="/scripts/classybox/css/jquery.classybox.min.css" />
 	<div id="my-slide" style="font-size:1.2em;font-family: 'archivo_narrowregular';">
     	
-            <div style="background-image: url('http://honestinstall.com/images/banner/1.jpg') no-repeat fixed bottom right transparent;;">
+            <div style="background-image: url('https://honestinstall.com/images/banner/1.jpg') no-repeat fixed bottom right transparent;;">
                 <div data-pos="['0%', '0%']" data-duration="8000" data-delay="300" data-effect="fadein">
                     <img data-lazy-src="images/banner/2.jpg"/>
                 </div>
             </div> 
-            <div style="background-image: url('http://honestinstall.com/images/banner/3.jpg') no-repeat fixed bottom right transparent;;background-repeat: no-repeat;">
+            <div style="background-image: url('https://honestinstall.com/images/banner/3.jpg') no-repeat fixed bottom right transparent;;background-repeat: no-repeat;">
                 <div data-pos="['0%', '0%']" data-duration="8000" data-delay="300" data-effect="fadein">
-                    <a href="http://honestinstall.com/sonos.php"><img data-lazy-src="images/banner/4.jpg"/></a>
+                    <a href="https://honestinstall.com/sonos.php"><img data-lazy-src="images/banner/4.jpg"/></a>
                 </div>
             </div> 
-            <div style="background-image: url('http://honestinstall.com/images/banner/5.jpg') no-repeat fixed bottom right transparent;;background-repeat: no-repeat;">
+            <div style="background-image: url('https://honestinstall.com/images/banner/5.jpg') no-repeat fixed bottom right transparent;;background-repeat: no-repeat;">
                 <div data-pos="['0%', '0%']" data-duration="8000" data-delay="300" data-effect="fadein">
                     <img data-lazy-src="images/banner/6.jpg"/>
                 </div>
             </div> 
-            <div style="background-image: url('http://honestinstall.com/images/banner/7.jpg') no-repeat fixed bottom right transparent;;background-repeat: no-repeat;">
+            <div style="background-image: url('https://honestinstall.com/images/banner/7.jpg') no-repeat fixed bottom right transparent;;background-repeat: no-repeat;">
                 <div data-pos="['0%', '0%']" data-duration="8000" data-delay="300" data-effect="fadein">
                     <img data-lazy-src="images/banner/8.jpg"/>
                 </div>
             </div> 
-            <div style="background-image: url('http://honestinstall.com/images/banner/9.jpg') no-repeat fixed bottom right transparent;;background-repeat: no-repeat;">
+            <div style="background-image: url('https://honestinstall.com/images/banner/9.jpg') no-repeat fixed bottom right transparent;;background-repeat: no-repeat;">
                 <div data-pos="['0%', '0%']" data-duration="8000" data-delay="300" data-effect="fadein">
-                    <a href="http://honestinstall.com/customer-profile-tyron-smith.php"><img data-lazy-src="images/banner/10.jpg"/></a>
+                    <a href="https://honestinstall.com/customer-profile-tyron-smith.php"><img data-lazy-src="images/banner/10.jpg"/></a>
                 </div>
             </div> 
-            <div style="background-image: url('http://honestinstall.com/images/banner/11.jpg') no-repeat fixed bottom right transparent;;background-repeat: no-repeat;">
+            <div style="background-image: url('https://honestinstall.com/images/banner/11.jpg') no-repeat fixed bottom right transparent;;background-repeat: no-repeat;">
                 <div data-pos="['0%', '0%']" data-duration="8000" data-delay="300" data-effect="fadein">
                     <a  onclick="window.open('http://www.customerlobby.com/reviews/403/honest-install/' ,'ReviewPage', 'statusbar=no,menubar=no,toolbar=no,scrollbars=yes,resizable=yes,width=540, height=575,left=570,top=200,screenX=570,screenY=200'); return false;" href="http://www.customerlobby.com/reviews/403/honest-install/" target=_blank><img data-lazy-src="images/banner/12.jpg"/></a>
                 </div>

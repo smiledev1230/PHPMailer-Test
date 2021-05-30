@@ -12,43 +12,43 @@
 					<div class="ad-thumbs">
 						<ul class="ad-thumb-list">
 							<li>
-								<a href="http://honestinstall.com/images/product-image-glomount.png">
-									<img class="image0" src="http://honestinstall.com/images/product-image-glomount (Custom).png">
+								<a href="https://honestinstall.com/images/product-image-glomount.png">
+									<img class="image0" src="https://honestinstall.com/images/product-image-glomount (Custom).png">
 								</a>
 							</li>
 							<li>
-								<a href="http://honestinstall.com/images/product-image-glotmounthumb.png">
-									<img class="image0" src="http://honestinstall.com/images/product-image-glotmounthumb (Custom).png">
+								<a href="https://honestinstall.com/images/product-image-glotmounthumb.png">
+									<img class="image0" src="https://honestinstall.com/images/product-image-glotmounthumb (Custom).png">
 								</a>
 							</li>
 							<li>
-								<a href="http://honestinstall.com/images/product-image-glotmounthum2.png">
-									<img class="image0" src="http://honestinstall.com/images/product-image-glotmounthum2 (Custom).png">
+								<a href="https://honestinstall.com/images/product-image-glotmounthum2.png">
+									<img class="image0" src="https://honestinstall.com/images/product-image-glotmounthum2 (Custom).png">
 								</a>
 							</li>
 							<li>
-								<a href="http://honestinstall.com/images/product-image-glotmounthum3.png">
-									<img class="image0" src="http://honestinstall.com/images/product-image-glotmounthum3 (Custom).png">
+								<a href="https://honestinstall.com/images/product-image-glotmounthum3.png">
+									<img class="image0" src="https://honestinstall.com/images/product-image-glotmounthum3 (Custom).png">
 								</a>
 							</li>
 							<li>
-								<a href="http://honestinstall.com/images/product-image-glotmounthum4.png">
-									<img class="image0" src="http://honestinstall.com/images/product-image-glotmounthum4 (Custom).png">
+								<a href="https://honestinstall.com/images/product-image-glotmounthum4.png">
+									<img class="image0" src="https://honestinstall.com/images/product-image-glotmounthum4 (Custom).png">
 								</a>
 							</li>
 							<li>
-								<a href="http://honestinstall.com/images/product-image-glotmounthum5.png">
-									<img class="image0" src="http://honestinstall.com/images/product-image-glotmounthum5 (Custom).png">
+								<a href="https://honestinstall.com/images/product-image-glotmounthum5.png">
+									<img class="image0" src="https://honestinstall.com/images/product-image-glotmounthum5 (Custom).png">
 								</a>
 							</li>
 							<li>
-								<a href="http://honestinstall.com/images/product-image-glotmounthum7.png">
-									<img class="image0" src="http://honestinstall.com/images/product-image-glotmounthum7 (Custom).png">
+								<a href="https://honestinstall.com/images/product-image-glotmounthum7.png">
+									<img class="image0" src="https://honestinstall.com/images/product-image-glotmounthum7 (Custom).png">
 								</a>
 							</li>
 							<li>
-								<a href="http://honestinstall.com/images/product-image-glotmounthum6.png">
-									<img class="image0" src="http://honestinstall.com/images/product-image-glotmounthum6 (Custom).png">
+								<a href="https://honestinstall.com/images/product-image-glotmounthum6.png">
+									<img class="image0" src="https://honestinstall.com/images/product-image-glotmounthum6 (Custom).png">
 								</a>
 							</li>
 						</ul>
@@ -68,8 +68,8 @@
 			<br>
 			<div class="proddetail">
 				<h4>Details</h4>
-				<p><strong>Glo, Baby Glo…<br></strong><br>Take your TV and décor to the next level with the GloMount series and Installation by Honest Install. Give your TV an instant Glo and illuminate your life, enhance your viewing experience and reduce eye strain. This LED ambient lighting system is available in two versions: the GloMount which includes a standard fixed TV mount and lighting system or the GloBelt that is suited for use with your choice of mounting bracket&nbsp;or a TV that is already wall mounted.</p>
-				<p>With just the touch of a button the GloMount turns your ordinary TV into something truly extraordinary. The seamless integration of&nbsp;the LED GloMount or GloBelt lighting system elevates the look of any interior space and allows you to create the perfect mood for any occasion. Whatever you want, whenever you want it, you control it all. With the wireless remote you can adjust the brightness, color and speed. Lock in your favorite color or rotate through and endless rainbow of colors with a soft gentle fade or turn up the pace for a rockin’ beat and let the party begin. Call Honest today to get your Glo on!</p>
+				<p><strong>Glo, Baby Gloï¿½<br></strong><br>Take your TV and dï¿½cor to the next level with the GloMount series and Installation by Honest Install. Give your TV an instant Glo and illuminate your life, enhance your viewing experience and reduce eye strain. This LED ambient lighting system is available in two versions: the GloMount which includes a standard fixed TV mount and lighting system or the GloBelt that is suited for use with your choice of mounting bracket&nbsp;or a TV that is already wall mounted.</p>
+				<p>With just the touch of a button the GloMount turns your ordinary TV into something truly extraordinary. The seamless integration of&nbsp;the LED GloMount or GloBelt lighting system elevates the look of any interior space and allows you to create the perfect mood for any occasion. Whatever you want, whenever you want it, you control it all. With the wireless remote you can adjust the brightness, color and speed. Lock in your favorite color or rotate through and endless rainbow of colors with a soft gentle fade or turn up the pace for a rockinï¿½ beat and let the party begin. Call Honest today to get your Glo on!</p>
 			</div>
 		</div>
 		<div class="box-image-product"><IMG src="../../../../../images/bottomround.jpg"></div>

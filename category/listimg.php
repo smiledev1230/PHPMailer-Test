@@ -158,12 +158,12 @@ function deleteImage(id){
 <div class="my_account">
     <h1>Edit Photos</h1>
     <ul class="menu-bend">
-		<li><a href="http://honestinstall.com/category/listcategory.php">List categories</a></li>
-		<li><a href="http://honestinstall.com/category/createcat.php">Add category</a></li>
+		<li><a href="https://honestinstall.com/category/listcategory.php">List categories</a></li>
+		<li><a href="https://honestinstall.com/category/createcat.php">Add category</a></li>
 	</ul>
     
     <div class="updateclient">
-        <button class="go" type="button" onclick=" return window.location.href = 'http://honestinstall.com/category/uploadimg.php';">Back to Upload Photo</button>
+        <button class="go" type="button" onclick=" return window.location.href = 'https://honestinstall.com/category/uploadimg.php';">Back to Upload Photo</button>
 		<form action="" method="post" enctype="multipart/form-data">
         <ul id="sortable">
         <?php foreach ($p->mysql_Array() as $arr) { ?>
@@ -189,7 +189,7 @@ function deleteImage(id){
 </div>
 <?php else: ?>
 <div style="margin:0 auto;width:850px;">
-<img src="http://honestinstall.com/images/random/2.png" />
+<img src="https://honestinstall.com/images/random/2.png" />
 
 <h2>Please Login</h2>
         <form name="login" action="" method="post">

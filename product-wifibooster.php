@@ -132,14 +132,14 @@ document.forms["serviceform"].reset();
             repeaters (also called Wi-Fi extenders or Wi-Fi amplifiers) that are 
             compatible with both PC or Apple brand Wireless routers and can 
             bring your Wi-Fi from poor to great signal quality. With Wi-Fi 
-            extenders by Honest you’ll be able to enjoy the freedom of Wi-Fi for 
+            extenders by Honest youï¿½ll be able to enjoy the freedom of Wi-Fi for 
             work or play in previously identified dead spots.<BR><STRONG><BR>How 
             it works:</STRONG>&nbsp;Wi-Fi amplifiers by Honest work in 
             conjunction with your existing Wireless router. First the Honest 
             Wi-Fi amplifier is strategically placed between your router and the 
-            “dead zone”, then an Honest technician will expertly configure the 
+            ï¿½dead zoneï¿½, then an Honest technician will expertly configure the 
             setting of the Wi-Fi amplifier to meet the specificaitons of your 
-            current Wireless router so the Wi-Fi amplifier can “grab” the signal 
+            current Wireless router so the Wi-Fi amplifier can ï¿½grabï¿½ the signal 
             and amplify it throughout your facility. Best of all usage is 
             seemless to the user.<BR><BR>Call us today to find out more: 
             972-470-3528.<BR><BR><SMALL>*Not compatible with all router types 
@@ -202,7 +202,7 @@ document.forms["serviceform"].reset();
                 <TD style="PADDING-TOP: 30px"><INPUT style="WIDTH: 240px" 
                   name=email></TD></TR></TBODY></TABLE></TD>
           <TD vAlign=top><BR><BR><TEXTAREA class=txtheight onClick="document.serviceform.Comments.value='';" rows=15 cols=36 name=Comments>Comments</TEXTAREA><small>*Honest Install will never sell or share your information.</small><BR><BR><INPUT 
-            value=http://honestinstall.com/thanks.php type=hidden name=redirect> 
+            value=https://honestinstall.com/thanks.php type=hidden name=redirect> 
             <INPUT value=phone,realname,email type=hidden name=required> <INPUT 
             value=service type=hidden name=recipient> <INPUT 
             value="Wi-Fi Amplifier Page Inquiry" type=hidden name=subject> 

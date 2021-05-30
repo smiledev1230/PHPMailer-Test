@@ -72,7 +72,7 @@
 
         <DIV align=center class="generalbordertb"><br>
             <br>
-            <img src="http://honestinstall.com/expo/images/logo.png" >
+            <img src="https://honestinstall.com/expo/images/logo.png" >
             
 </div>
             </div>

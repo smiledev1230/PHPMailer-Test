@@ -1,6 +1,6 @@
 <?php include "includes/socialmedia.php"; ?>
 <!--
-<div id="craftysyntax_1" style="position: fixed;  top: 50%;  left: 0;"><script type="text/javascript" nsrc="http://honestinstall.com/livehelp/livehelp_js.php?eo=0&department=1&amp;serversession=1&amp;pingtimes=15&amp;dynamic=Y"></script></div>!-->
+<div id="craftysyntax_1" style="position: fixed;  top: 50%;  left: 0;"><script type="text/javascript" nsrc="https://honestinstall.com/livehelp/livehelp_js.php?eo=0&department=1&amp;serversession=1&amp;pingtimes=15&amp;dynamic=Y"></script></div>!-->
 
 <div align="center">
 
@@ -42,7 +42,7 @@
 
     <div style="background:url(/images/honest-install-ask-a-tech22.jpg);background-repeat:no-repeat;width:850px;height:240px;margin:0 auto;text-align:left">
 
-        <div style="padding-left:454px;padding-top:80px;height:50px;cursor: pointer;" onClick="location.href=('http://honestinstall.com/contact.php');">
+        <div style="padding-left:454px;padding-top:80px;height:50px;cursor: pointer;" onClick="location.href=('https://honestinstall.com/contact.php');">
             <font size="+1" color="#eab80b">Give us a Ring</font><br />
 
             <font size="2">
@@ -90,8 +90,8 @@ A consultation fee will apply for locations in the extended service area, which 
 
                 <img src="/images/footericon.jpg" alt="Honest Install" width="848"  usemap="#Mapfooter" />
                 <map name="Mapfooter" id="Mapfooter">
-                    <area shape="rect" coords="135,12,260,123" href="http://honestinstall.com/fireplace-faqs.php" />
-                    <area shape="rect" coords="707,5,835,122" href="http://honestinstall.com/products-and-installation.php#yellowg" />
+                    <area shape="rect" coords="135,12,260,123" href="https://honestinstall.com/fireplace-faqs.php" />
+                    <area shape="rect" coords="707,5,835,122" href="https://honestinstall.com/products-and-installation.php#yellowg" />
                 </map>
 
 
@@ -176,8 +176,8 @@ A consultation fee will apply for locations in the extended service area, which 
 
                           
                                                                  <tr><td class=keywords align="left"><a class=keywordLink title="Spotlight Page"  href="http://www.honestinstall.com/spotlight.php"><strong>Spotlight Page</strong></a></td></tr>
-                                                                   <tr><td class=keywords align="left"><a class=keywordLink title="Schedule"  href="http://honestinstall.com/contact.php"><strong>Schedule Service/Inquiry Form</strong></a></td></tr>  <tr><td class=keywords align="left"><a class=keywordLink title="Contact Us"  href="http://honestinstall.com/contact.php"><strong>Contact Us </strong></a></td></tr>
-                                                                     <tr><td class=keywords align="left"><a class=keywordLink title="Contact Us"  href="http://honestinstall.com/blog"><strong>Blog</strong></a></td></tr>
+                                                                   <tr><td class=keywords align="left"><a class=keywordLink title="Schedule"  href="https://honestinstall.com/contact.php"><strong>Schedule Service/Inquiry Form</strong></a></td></tr>  <tr><td class=keywords align="left"><a class=keywordLink title="Contact Us"  href="https://honestinstall.com/contact.php"><strong>Contact Us </strong></a></td></tr>
+                                                                     <tr><td class=keywords align="left"><a class=keywordLink title="Contact Us"  href="https://honestinstall.com/blog"><strong>Blog</strong></a></td></tr>
                                                                  </tbody></table>
                                                                  </td></tr>
 <tr valign="top" bgColor=#f4efd1 >

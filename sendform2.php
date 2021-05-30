@@ -568,7 +568,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
         
             
         
-            echo "<script>window.location='http://honestinstall.com/thanksinquiry.php';</script>";
+            echo "<script>window.location='https://honestinstall.com/thanksinquiry.php';</script>";
         } else {
             echo "The Captcha code must be retyped correctly.";
             exit;

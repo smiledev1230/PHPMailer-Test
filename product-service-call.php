@@ -109,8 +109,8 @@ document.forms["serviceform"].reset();
             <H4>Details</H4></DIV>
             <DIV class=fadedetail>
             <DIV class=fadecontent><STRONG>Go ahead, call 
-            us…<BR><BR></STRONG></DIV>
-            <DIV class=fadecontent>At Honest we offer one rate of $149 (include the first hour) which covers drive time and your first hour of service. Every hour required after the first is billed at $99/hr. So if something’s not working quite right with your system or you have an issue you can’t seem to solve, give Honest a call.<BR><BR><FONT 
+            usï¿½<BR><BR></STRONG></DIV>
+            <DIV class=fadecontent>At Honest we offer one rate of $149 (include the first hour) which covers drive time and your first hour of service. Every hour required after the first is billed at $99/hr. So if somethingï¿½s not working quite right with your system or you have an issue you canï¿½t seem to solve, give Honest a call.<BR><BR><FONT 
             size=1>*No trip charge applies to residential locations within 
             standard service area.<BR>**Up to one hour of service any 
             materials/cables are extra. Sales tax may apply.</FONT></DIV></DIV>
@@ -171,7 +171,7 @@ document.forms["serviceform"].reset();
                 <TD style="PADDING-TOP: 30px"><INPUT style="WIDTH: 240px" 
                   name=email></TD></TR></TBODY></TABLE></TD>
           <TD vAlign=top><BR><BR><TEXTAREA class=txtheight onClick="document.serviceform.Comments.value='';" rows=15 cols=36 name=Comments>Comments</TEXTAREA><small>*Honest Install will never sell or share your information.</small><BR><BR><INPUT 
-            value=http://honestinstall.com/thanks.php type=hidden name=redirect> 
+            value=https://honestinstall.com/thanks.php type=hidden name=redirect> 
             <INPUT value=phone,realname,email type=hidden name=required> <INPUT 
             value=service type=hidden name=recipient> <INPUT 
             value="Service Call Inquiry" type=hidden name=subject> <INPUT 

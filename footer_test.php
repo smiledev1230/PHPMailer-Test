@@ -4,7 +4,7 @@
 
 				<div class="footer-background">
 
-					<div class="box-background1" onClick="location.href=('http://honestinstall.com/contact.php');">
+					<div class="box-background1" onClick="location.href=('https://honestinstall.com/contact.php');">
 
 						<font size="+1" color="#eab80b">Give us a Ring</font><br />
 
@@ -76,11 +76,11 @@ residents and businesses trust Honest.
 
 							<!--<li class="keywords"><a class=keywordLink title="Spotlight Page"  href="http://www.honestinstall.com/spotlight.php">Spotlight Page</a></li>-->
 
-							<li class="keywords"><a class=keywordLink title="Schedule"  href="http://honestinstall.com/contact.php">Schedule Service/Inquiry Form</a></li>
+							<li class="keywords"><a class=keywordLink title="Schedule"  href="https://honestinstall.com/contact.php">Schedule Service/Inquiry Form</a></li>
 
-							<li class="keywords"><a class=keywordLink title="Contact Us"  href="http://honestinstall.com/contact.php">Contact Us </a></li>
+							<li class="keywords"><a class=keywordLink title="Contact Us"  href="https://honestinstall.com/contact.php">Contact Us </a></li>
 
-							<li class="keywords"><a class=keywordLink title="Contact Us"  href="http://honestinstall.com/blog">Blog</a></li>
+							<li class="keywords"><a class=keywordLink title="Contact Us"  href="https://honestinstall.com/blog">Blog</a></li>
 
 						</ul>
 

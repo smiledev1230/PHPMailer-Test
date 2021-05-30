@@ -133,16 +133,16 @@ A:hover {
 			<div id="features">
 <div><a href="http://www.honestinstall.com/nest.php"><img src="images/Honest-Feature-NEST.jpg" /></a><br>
 
-<br><FONT face=Arial color=#808080 size=2><strong>NEST + HONEST:</strong><br /><br /><span style='font-weight:normal'>Nest Learning Thermostats are now sold and installed by Honest.   <a href="http://honestinstall.com/nest.php">Learn More & View Pricing </a></span></FONT></div>
+<br><FONT face=Arial color=#808080 size=2><strong>NEST + HONEST:</strong><br /><br /><span style='font-weight:normal'>Nest Learning Thermostats are now sold and installed by Honest.   <a href="https://honestinstall.com/nest.php">Learn More & View Pricing </a></span></FONT></div>
 
-<div><a href="http://honestinstall.com/product-outcast.php"><img src="images/Honest-Feature-Outdoor-Liv2.jpg" /></a><br>
+<div><a href="https://honestinstall.com/product-outcast.php"><img src="images/Honest-Feature-Outdoor-Liv2.jpg" /></a><br>
 
-<br><FONT face=Arial color=#808080 size=2><strong>IT'S OUTDOOR ENTERTAINMENT TIME:</strong><br /><br /><span style='font-weight:normal'>Summer's here, time for outdoor living, take your entertainment outside with you.  <a href="http://honestinstall.com/pricing-and-services.php">See Pricing Menu</a> <a href="http://honestinstall.com/product-outcast.php"> Outdoor Wireless Speaker System</a></span></FONT></div>
+<br><FONT face=Arial color=#808080 size=2><strong>IT'S OUTDOOR ENTERTAINMENT TIME:</strong><br /><br /><span style='font-weight:normal'>Summer's here, time for outdoor living, take your entertainment outside with you.  <a href="https://honestinstall.com/pricing-and-services.php">See Pricing Menu</a> <a href="https://honestinstall.com/product-outcast.php"> Outdoor Wireless Speaker System</a></span></FONT></div>
 
 
-<div><a href="http://honestinstall.com/fireplace-faqs.php"><img src="images/honest-feature-fireplaceTV.jpg" /></a><br>
+<div><a href="https://honestinstall.com/fireplace-faqs.php"><img src="images/honest-feature-fireplaceTV.jpg" /></a><br>
 
-<br><FONT face=Arial color=#808080 size=2><strong>TOF: TV OVER FIREPLACE!</strong><br /><br /><span style='font-weight:normal'>We specialize in fireplace TVs and have tackled hundreds of them.  <a href="http://honestinstall.com/fireplace-faqs.php">See More </a></span></FONT></div>
+<br><FONT face=Arial color=#808080 size=2><strong>TOF: TV OVER FIREPLACE!</strong><br /><br /><span style='font-weight:normal'>We specialize in fireplace TVs and have tackled hundreds of them.  <a href="https://honestinstall.com/fireplace-faqs.php">See More </a></span></FONT></div>
 
 
 <div><a href="http://www.honestinstall.com/commercial.php?menu=cw"><img src="images/Honest-Feature-Commercial-AV.jpg" /></a><br>
@@ -231,10 +231,10 @@ $('pre').fixOverflow();
 
       href="http://www.honestinstall.com/product-universalremote.php"><IMG alt="Universal Remotes" 
 
-      src="images/banner_03.jpg"></A><A href="http://honestinstall.com/product-onsiteconsultation.php"><IMG 
+      src="images/banner_03.jpg"></A><A href="https://honestinstall.com/product-onsiteconsultation.php"><IMG 
 
       alt="On-Site Installations" src="images/banner_04.jpg"></A>
-			<a href="http://honestinstall.com/product-internettv.php"><img src="images/Banner-Ad-Apple-TV-sized.jpg" /></a>
+			<a href="https://honestinstall.com/product-internettv.php"><img src="images/Banner-Ad-Apple-TV-sized.jpg" /></a>
         <A href="http://www.honestinstall.com/product-service-call.php"><IMG alt="Service Call" src="images/banner_01.jpg"></A><A 
 
       href="http://www.honestinstall.com/product-glomount.php"><IMG alt=GloMount src="images/banner_02.jpg"></A>
@@ -384,7 +384,7 @@ window.onload=function(){
 
       height=127></A><BR></FONT></FONT><A 
 
-      href="http://honestinstall.com/pricing.php"><IMG alt="free hdmi cables" 
+      href="https://honestinstall.com/pricing.php"><IMG alt="free hdmi cables" 
 
       src="images/bottom_01.jpg"></A><IMG alt="smart shelves" 
 

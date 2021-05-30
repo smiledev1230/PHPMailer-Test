@@ -151,8 +151,8 @@ function deleteCat(id){
         
         <h1>List Category</h1>
         <ul class="menu-bend">
-			<li><a href="http://honestinstall.com/category/uploadimg.php">Upload image</a></li>
-			<li><a href="http://honestinstall.com/category/listimg.php">List images</a></li>
+			<li><a href="https://honestinstall.com/category/uploadimg.php">Upload image</a></li>
+			<li><a href="https://honestinstall.com/category/listimg.php">List images</a></li>
 		</ul>
         <div class="updateclient">
 			<div class="list-cat">
@@ -160,17 +160,17 @@ function deleteCat(id){
 				<?php foreach ($p->catsql_Array() as $arr) { ?>
 					<li class="ui-state-default" id="<?php echo $arr['id'] ;?>" data-id="<?php echo $arr['order_id'] ?>">
 						<a onclick="deleteCat(<?php echo $arr['id'] ;?>)"><img src="../images/delete.png"></a>
-						<a target="_blank" href="http://honestinstall.com/category/list-image-by-cat.php?cat_id=<?php echo $arr['id'] ;?>"><?php echo $arr['name']?></a>
+						<a target="_blank" href="https://honestinstall.com/category/list-image-by-cat.php?cat_id=<?php echo $arr['id'] ;?>"><?php echo $arr['name']?></a>
 					</li>
 				<?php } ?>
 				</ul>
 			</div>
-			<a class="button-add" href="http://honestinstall.com/category/createcat.php">Add Category</a>
+			<a class="button-add" href="https://honestinstall.com/category/createcat.php">Add Category</a>
         </div>
 </div>
 <?php else: ?>
 <div style="margin:0 auto;width:850px;">
-<img src="http://honestinstall.com/images/random/2.png" />
+<img src="https://honestinstall.com/images/random/2.png" />
 
 <h2>Please Login</h2>
         <form name="login" action="" method="post">

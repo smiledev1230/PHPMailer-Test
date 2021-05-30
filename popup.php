@@ -166,7 +166,7 @@ $(document).ready(function() {
 
         <DIV align=center class="generalbordertb"><br>
             <br>
-            <img src="http://honestinstall.com/expo/images/logo.png" width="800px"  style="padding-left:7px">
+            <img src="https://honestinstall.com/expo/images/logo.png" width="800px"  style="padding-left:7px">
             
                     <!-- eof gallery !-->
 </div>
